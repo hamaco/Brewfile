@@ -10,6 +10,7 @@ cask archiver
 cask atom
 cask bartender
 cask contexts
+cask coteditor
 cask docker
 cask dropbox
 cask firefox
