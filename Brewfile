@@ -88,9 +88,10 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 411643860 DaisyDisk (4.2)
+appstore 1091189122 Bear (1.0.2)
+appstore 411643860 DaisyDisk (4.3)
 appstore 435003921 Fantastical (1.3.19)
 appstore 1127487414 Install macOS Sierra (12.0.49)
 appstore 568494494 Pocket (1.6.2)
-appstore 880001334 Reeder (3.0)
+appstore 880001334 Reeder (3.0.1)
 appstore 557168941 Tweetbot (2.4.1)
