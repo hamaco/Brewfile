@@ -93,6 +93,3 @@ appstore 1127487414 Install macOS Sierra (12.0.49)
 appstore 568494494 Pocket (1.6.2)
 appstore 880001334 Reeder (3.0)
 appstore 557168941 Tweetbot (2.4.1)
-
-# Other commands
-git hamaco/Brewfile
