@@ -70,8 +70,10 @@ brew packer
 brew pcre
 brew peco
 brew pkg-config
+brew rbenv
 brew readline
 brew reattach-to-user-namespace
+brew ruby-build
 brew the_platinum_searcher
 brew tig
 brew tmux
@@ -86,6 +88,9 @@ brew neovim
 
 tap rcmdnk/file
 brew brew-file
+
+tap tkengo/highway
+brew highway
 
 # App Store applications
 appstore 1091189122 Bear (1.0.2)
