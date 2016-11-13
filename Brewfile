@@ -17,6 +17,7 @@ cask firefox
 cask flux
 cask franz
 cask horst
+cask hyperswitch
 cask insomnia
 cask iterm2
 cask karabiner
@@ -58,6 +59,7 @@ brew git-flow-avh
 brew git-now
 brew gnu-getopt
 brew go
+brew gperftools
 brew imagemagick
 brew jpeg
 brew libevent
@@ -65,6 +67,7 @@ brew libpng
 brew libtiff
 brew libtool
 brew mas
+brew node
 brew openssl
 brew packer
 brew pcre
@@ -81,6 +84,7 @@ brew tree
 brew utf8proc
 brew wget
 brew xz
+brew yarn
 brew zsh
 
 tap neovim/neovim
@@ -99,4 +103,4 @@ appstore 435003921 Fantastical (1.3.19)
 appstore 1127487414 Install macOS Sierra (12.0.49)
 appstore 568494494 Pocket (1.6.2)
 appstore 880001334 Reeder (3.0.1)
-appstore 557168941 Tweetbot (2.4.1)
+appstore 557168941 Tweetbot (2.4.4)
