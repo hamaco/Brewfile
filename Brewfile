@@ -16,9 +16,11 @@ cask dropbox
 cask firefox
 cask flux
 cask franz
+cask google-chrome
 cask horst
 cask hyperswitch
 cask insomnia
+cask istat-menus
 cask iterm2
 cask karabiner
 cask keepingyouawake
@@ -42,6 +44,7 @@ cask yabumi
 
 tap caskroom/versions
 cask google-chrome-canary
+cask microsoft-remote-desktop-beta
 cask phpstorm-eap
 cask vivaldi-snapshot
 
@@ -72,6 +75,8 @@ brew libtiff
 brew libtool
 brew libuv
 brew libvterm
+brew libxml2
+brew libxslt
 brew mas
 brew msgpack
 brew mysql
@@ -96,6 +101,9 @@ brew wget
 brew xz
 brew yarn
 brew zsh
+
+tap homebrew/dupes
+brew libiconv
 
 tap neovim/neovim
 brew neovim
