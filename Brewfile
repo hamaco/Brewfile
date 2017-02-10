@@ -17,12 +17,11 @@ cask firefox
 cask flux
 cask franz
 cask google-chrome
-cask horst
 cask hyperswitch
 cask insomnia
 cask istat-menus
 cask iterm2
-cask karabiner
+cask karabiner-elements
 cask keepingyouawake
 cask kindle
 cask little-snitch
@@ -33,7 +32,6 @@ cask postico
 cask scroll-reverser
 cask seil
 cask sequel-pro
-cask skype
 cask slack
 cask slate
 cask steam
@@ -64,7 +62,9 @@ brew git-now
 brew gnu-getopt
 brew go
 brew gperftools
+brew icu4c
 brew imagemagick
+brew jemalloc
 brew jpeg
 brew jq
 brew keychain
@@ -115,11 +115,10 @@ tap tkengo/highway
 brew highway
 
 # App Store applications
-appstore 1091189122 Bear (1.0.2)
-appstore 411643860 DaisyDisk (4.3)
+appstore 1091189122 Bear (1.0.6)
+appstore 411643860 DaisyDisk (4.3.2)
 appstore 435003921 Fantastical (1.3.19)
-appstore 1127487414 Install macOS Sierra (12.0.49)
-appstore 409183694 Keynote (6.6.2)
+appstore 409183694 Keynote (7.0.5)
 appstore 568494494 Pocket (1.6.2)
-appstore 880001334 Reeder (3.0.1)
-appstore 557168941 Tweetbot (2.4.4)
+appstore 880001334 Reeder (3.0.3)
+appstore 557168941 Tweetbot (2.4.6)
