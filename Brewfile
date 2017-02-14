@@ -9,6 +9,7 @@ cask aquaskk
 cask archiver
 cask atom
 cask bartender
+cask bettertouchtool
 cask contexts
 cask coteditor
 cask docker
@@ -16,7 +17,9 @@ cask dropbox
 cask firefox
 cask flux
 cask franz
+cask gas-mask
 cask google-chrome
+cask hammerspoon
 cask hyperswitch
 cask insomnia
 cask istat-menus
@@ -25,6 +28,7 @@ cask karabiner-elements
 cask keepingyouawake
 cask kindle
 cask little-snitch
+cask macvim
 cask omnifocus
 cask omnigraffle
 cask poedit
@@ -41,6 +45,7 @@ cask virtualbox
 cask yabumi
 
 tap caskroom/versions
+cask airmail-beta
 cask google-chrome-canary
 cask microsoft-remote-desktop-beta
 cask phpstorm-eap
