@@ -10,6 +10,7 @@ cask archiver
 cask atom
 cask bartender
 cask bettertouchtool
+cask boostnote
 cask contexts
 cask coteditor
 cask docker
@@ -39,10 +40,11 @@ cask sequel-pro
 cask slack
 cask slate
 cask steam
-cask vagrant-manager
-cask vagrant
 cask virtualbox
 cask yabumi
+
+tap caskroom/fonts
+cask font-source-han-code-jp
 
 tap caskroom/versions
 cask airmail-beta
@@ -126,6 +128,8 @@ appstore 411643860 DaisyDisk (4.3.2)
 appstore 435003921 Fantastical (1.3.19)
 appstore 1144071713 KeiSignal (1.0.3)
 appstore 409183694 Keynote (7.0.5)
+appstore 409203825 Numbers (4.0.5)
+appstore 409201541 Pages (6.0.5)
 appstore 568494494 Pocket (1.6.2)
 appstore 880001334 Reeder (3.0.3)
 appstore 557168941 Tweetbot (2.4.6)
