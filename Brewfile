@@ -25,6 +25,7 @@ cask hyperswitch
 cask insomnia
 cask istat-menus
 cask iterm2
+cask jasper
 cask karabiner-elements
 cask keepingyouawake
 cask kindle
@@ -124,7 +125,7 @@ brew highway
 # App Store applications
 appstore 961632517 Be Focused Pro (1.6.2)
 appstore 1091189122 Bear (1.0.6)
-appstore 411643860 DaisyDisk (4.3.2)
+appstore 411643860 DaisyDisk (4.4)
 appstore 435003921 Fantastical (1.3.19)
 appstore 1144071713 KeiSignal (1.0.3)
 appstore 409183694 Keynote (7.0.5)
