@@ -3,12 +3,13 @@
 
 tap caskroom/cask
 cask 1password
+cask adobe-illustrator-cc
 cask alfred
 cask appcleaner
 cask aquaskk
-cask archiver
 cask atom
 cask bartender
+cask bdash
 cask bettertouchtool
 cask boostnote
 cask contexts
@@ -29,6 +30,7 @@ cask jasper
 cask karabiner-elements
 cask keepingyouawake
 cask kindle
+cask libreoffice
 cask little-snitch
 cask macvim
 cask omnifocus
@@ -38,6 +40,7 @@ cask postico
 cask scroll-reverser
 cask seil
 cask sequel-pro
+cask sketch
 cask slack
 cask slate
 cask steam
@@ -49,7 +52,6 @@ cask font-source-han-code-jp
 
 tap caskroom/versions
 cask airmail-beta
-cask google-chrome-canary
 cask microsoft-remote-desktop-beta
 cask phpstorm-eap
 cask vivaldi-snapshot
