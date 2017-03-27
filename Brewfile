@@ -27,7 +27,7 @@ cask insomnia
 cask istat-menus
 cask iterm2
 cask jasper
-cask karabiner-elements
+# cask karabiner-elements
 cask keepingyouawake
 cask kindle
 cask libreoffice
