@@ -41,6 +41,7 @@ cask scroll-reverser
 cask seil
 cask sequel-pro
 cask sketch
+cask skype
 cask slack
 cask slate
 cask steam
@@ -79,6 +80,7 @@ brew jpeg
 brew jq
 brew keychain
 brew libevent
+brew libiconv
 brew libpng
 brew libtermkey
 brew libtiff
@@ -113,7 +115,6 @@ brew yarn
 brew zsh
 
 tap homebrew/dupes
-brew libiconv
 
 tap neovim/neovim
 brew neovim
