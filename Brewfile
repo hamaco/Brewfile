@@ -35,6 +35,7 @@ cask little-snitch
 cask macvim
 cask omnifocus
 cask omnigraffle
+cask phpstorm
 cask poedit
 cask postico
 cask scroll-reverser
