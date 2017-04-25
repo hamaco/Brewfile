@@ -130,9 +130,6 @@ brew brew-file
 tap tkengo/highway
 brew highway
 
-# Cask applications
-cask phpstorm-eap
-
 # App Store applications
 appstore 961632517 Be Focused Pro (1.6.2)
 appstore 1091189122 Bear (1.1.2)
