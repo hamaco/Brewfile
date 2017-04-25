@@ -12,6 +12,7 @@ cask bartender
 cask bdash
 cask bettertouchtool
 cask boostnote
+cask coconutbattery
 cask contexts
 cask coteditor
 cask docker
@@ -33,6 +34,7 @@ cask kindle
 cask libreoffice
 cask little-snitch
 cask macvim
+cask mapture
 cask omnifocus
 cask omnigraffle
 cask phpstorm
@@ -55,7 +57,6 @@ cask font-source-han-code-jp
 tap caskroom/versions
 cask airmail-beta
 cask microsoft-remote-desktop-beta
-cask phpstorm-eap
 cask vivaldi-snapshot
 
 tap homebrew/core
@@ -74,6 +75,7 @@ brew git-now
 brew gnu-getopt
 brew go
 brew gperftools
+brew httpie
 brew icu4c
 brew imagemagick
 brew jemalloc
@@ -100,10 +102,12 @@ brew packer
 brew pcre
 brew peco
 brew pkg-config
+brew python3
 brew rbenv
 brew readline
 brew reattach-to-user-namespace
 brew ruby-build
+brew sqlite
 brew the_platinum_searcher
 brew tig
 brew tmux
@@ -126,9 +130,12 @@ brew brew-file
 tap tkengo/highway
 brew highway
 
+# Cask applications
+cask phpstorm-eap
+
 # App Store applications
 appstore 961632517 Be Focused Pro (1.6.2)
-appstore 1091189122 Bear (1.1)
+appstore 1091189122 Bear (1.1.2)
 appstore 411643860 DaisyDisk (4.4)
 appstore 435003921 Fantastical (1.3.19)
 appstore 1144071713 KeiSignal (2.0.3)
