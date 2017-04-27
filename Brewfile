@@ -65,6 +65,7 @@ brew automake
 brew cmake
 brew diff-so-fancy
 brew direnv
+brew fontconfig
 brew freetype
 brew gdbm
 brew gettext
@@ -85,6 +86,7 @@ brew keychain
 brew libevent
 brew libiconv
 brew libpng
+brew libssh2
 brew libtermkey
 brew libtiff
 brew libtool
@@ -107,6 +109,7 @@ brew rbenv
 brew readline
 brew reattach-to-user-namespace
 brew ruby-build
+brew rust
 brew sqlite
 brew the_platinum_searcher
 brew tig
@@ -120,6 +123,8 @@ brew yarn
 brew zsh
 
 tap homebrew/dupes
+
+tap mscharley/homebrew
 
 tap neovim/neovim
 brew neovim
