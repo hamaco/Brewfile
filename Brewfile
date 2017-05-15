@@ -52,6 +52,7 @@ cask virtualbox
 cask yabumi
 
 tap caskroom/fonts
+cask font-fontawesome
 cask font-source-han-code-jp
 
 tap caskroom/versions
