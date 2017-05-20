@@ -95,6 +95,7 @@ brew libuv
 brew libvterm
 brew libxml2
 brew libxslt
+brew lua
 brew mas
 brew msgpack
 brew mysql
