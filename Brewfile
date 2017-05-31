@@ -102,6 +102,7 @@ brew mysql
 brew node
 brew oniguruma
 brew openssl
+brew openssl@1.1
 brew packer
 brew pcre
 brew peco
