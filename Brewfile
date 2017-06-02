@@ -101,6 +101,7 @@ brew msgpack
 brew mysql
 brew node
 brew oniguruma
+brew openssh
 brew openssl
 brew openssl@1.1
 brew packer
