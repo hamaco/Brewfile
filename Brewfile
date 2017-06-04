@@ -7,6 +7,7 @@ cask adobe-illustrator-cc
 cask alfred
 cask appcleaner
 cask aquaskk
+cask archiver
 cask atom
 cask bartender
 cask bdash
@@ -141,7 +142,7 @@ brew highway
 
 # App Store applications
 appstore 961632517 Be Focused Pro (1.6.2)
-appstore 1091189122 Bear (1.2)
+appstore 1091189122 Bear (1.2.1)
 appstore 411643860 DaisyDisk (4.4)
 appstore 435003921 Fantastical (1.3.19)
 appstore 1144071713 KeiSignal (2.0.3)
