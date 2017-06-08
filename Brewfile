@@ -115,6 +115,7 @@ brew readline
 brew reattach-to-user-namespace
 brew ruby-build
 brew rust
+brew speedtest_cli
 brew sqlite
 brew the_platinum_searcher
 brew tig
