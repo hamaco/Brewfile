@@ -100,6 +100,7 @@ brew lua
 brew mas
 brew msgpack
 brew mysql
+brew neovim
 brew node
 brew oniguruma
 brew openssh
@@ -133,7 +134,6 @@ tap homebrew/dupes
 tap mscharley/homebrew
 
 tap neovim/neovim
-brew neovim
 
 tap rcmdnk/file
 brew brew-file
