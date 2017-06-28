@@ -3,7 +3,6 @@
 
 tap caskroom/cask
 cask 1password
-cask adobe-illustrator-cc
 cask alfred
 cask appcleaner
 cask aquaskk
@@ -13,7 +12,7 @@ cask bartender
 cask bdash
 cask bettertouchtool
 cask boostnote
-cask coconutbattery
+cask charles
 cask contexts
 cask coteditor
 cask docker
@@ -44,6 +43,7 @@ cask postico
 cask scroll-reverser
 cask seil
 cask sequel-pro
+cask sitesucker
 cask sketch
 cask skype
 cask slack
