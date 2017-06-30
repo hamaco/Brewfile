@@ -2,11 +2,11 @@
 # tap repositories and their packages
 
 tap caskroom/cask
+cask 0xed
 cask 1password
 cask alfred
 cask appcleaner
 cask aquaskk
-cask archiver
 cask atom
 cask bartender
 cask bdash
@@ -28,13 +28,16 @@ cask insomnia
 cask istat-menus
 cask iterm2
 cask jasper
+cask java
 cask karabiner-elements
 cask keepingyouawake
+cask keka
 cask kindle
 cask libreoffice
 cask little-snitch
 cask macvim
 cask mapture
+cask marp
 cask omnifocus
 cask omnigraffle
 cask phpstorm
@@ -49,7 +52,10 @@ cask skype
 cask slack
 cask slate
 cask steam
+cask tweeten
+cask unity
 cask virtualbox
+cask wireshark
 cask yabumi
 
 tap caskroom/fonts
@@ -98,6 +104,7 @@ brew libxml2
 brew libxslt
 brew lua
 brew mas
+brew mono
 brew msgpack
 brew mysql
 brew neovim
@@ -110,6 +117,7 @@ brew packer
 brew pcre
 brew peco
 brew pkg-config
+brew python
 brew python3
 brew rbenv
 brew readline
@@ -155,5 +163,8 @@ appstore 568494494 Pocket (1.6.2)
 appstore 880001334 Reeder (3.0.5)
 appstore 1176895641 Spark (1.2.2)
 appstore 557168941 Tweetbot (2.5.1)
+appstore 1227057295 TweetShot (1.3.0)
+appstore 1224961763 TweetStream (1.3.0)
 appstore 494803304 WiFi Explorer (2.3.2)
 appstore 525912054 WiFi Signal (4.0.5)
+appstore 497799835 Xcode (8.3.3)
