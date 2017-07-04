@@ -31,7 +31,6 @@ cask jasper
 cask java
 cask karabiner-elements
 cask keepingyouawake
-cask keka
 cask kindle
 cask libreoffice
 cask little-snitch
@@ -52,8 +51,8 @@ cask skype
 cask slack
 cask slate
 cask steam
+cask the-unarchiver
 cask tweeten
-cask unity
 cask virtualbox
 cask wireshark
 cask yabumi
@@ -161,10 +160,10 @@ appstore 409203825 Numbers (4.2)
 appstore 409201541 Pages (6.2)
 appstore 568494494 Pocket (1.6.2)
 appstore 880001334 Reeder (3.0.5)
-appstore 1176895641 Spark (1.2.2)
+appstore 1176895641 Spark (1.2.3)
 appstore 557168941 Tweetbot (2.5.1)
 appstore 1227057295 TweetShot (1.3.0)
-appstore 1224961763 TweetStream (1.3.0)
+appstore 1224961763 TweetTicker (1.3.1)
 appstore 494803304 WiFi Explorer (2.3.2)
 appstore 525912054 WiFi Signal (4.0.5)
 appstore 497799835 Xcode (8.3.3)
