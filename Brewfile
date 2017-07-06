@@ -41,6 +41,7 @@ cask omnifocus
 cask omnigraffle
 cask phpstorm
 cask poedit
+cask popsql
 cask postico
 cask scroll-reverser
 cask seil
