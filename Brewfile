@@ -104,6 +104,8 @@ brew libxml2
 brew libxslt
 brew lua
 brew mas
+brew mcrypt
+brew mhash
 brew mono
 brew msgpack
 brew mysql
@@ -120,11 +122,12 @@ brew pkg-config
 brew python
 brew python3
 brew rbenv
+brew re2c
 brew readline
 brew reattach-to-user-namespace
 brew ruby-build
 brew rust
-brew speedtest_cli
+brew speedtest-cli
 brew sqlite
 brew the_platinum_searcher
 brew tig
@@ -138,6 +141,9 @@ brew yarn
 brew zsh
 
 tap homebrew/dupes
+
+tap matsub/anyenv
+brew anyenv
 
 tap mscharley/homebrew
 
@@ -163,7 +169,7 @@ appstore 568494494 Pocket (1.6.2)
 appstore 880001334 Reeder (3.0.5)
 appstore 1176895641 Spark (1.2.3)
 appstore 557168941 Tweetbot (2.5.1)
-appstore 1227057295 TweetShot (1.3.0)
+appstore 1227057295 TweetShot (1.3.1)
 appstore 1224961763 TweetTicker (1.3.1)
 appstore 494803304 WiFi Explorer (2.3.2)
 appstore 525912054 WiFi Signal (4.0.5)
