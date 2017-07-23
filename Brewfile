@@ -119,6 +119,7 @@ brew packer
 brew pcre
 brew peco
 brew pkg-config
+brew pv
 brew python
 brew python3
 brew rbenv
@@ -157,7 +158,7 @@ brew highway
 
 # App Store applications
 appstore 961632517 Be Focused Pro (1.6.2)
-appstore 1091189122 Bear (1.2.1)
+appstore 1091189122 Bear (1.2.2)
 appstore 411643860 DaisyDisk (4.4)
 appstore 435003921 Fantastical (1.3.19)
 appstore 1142151959 JustFocus (1.3.4)
