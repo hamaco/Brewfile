@@ -46,7 +46,6 @@ cask postico
 cask scroll-reverser
 cask seil
 cask sequel-pro
-cask sitesucker
 cask sketch
 cask skype
 cask slack
@@ -155,6 +154,9 @@ brew brew-file
 
 tap tkengo/highway
 brew highway
+
+# Cask applications
+cask sitesucker
 
 # App Store applications
 appstore 961632517 Be Focused Pro (1.6.2)
