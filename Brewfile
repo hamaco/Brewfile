@@ -23,6 +23,7 @@ cask gas-mask
 cask google-chrome
 cask hammerspoon
 cask hyperswitch
+cask inkdrop
 cask insomnia
 cask istat-menus
 cask iterm2
@@ -170,7 +171,7 @@ cask sitesucker
 
 # App Store applications
 appstore 961632517 Be Focused Pro (1.6.2)
-appstore 1091189122 Bear (1.3)
+appstore 1091189122 Bear (1.3.1)
 appstore 411643860 DaisyDisk (4.4)
 appstore 435003921 Fantastical (1.3.19)
 appstore 1142151959 JustFocus (1.3.4)
@@ -180,7 +181,7 @@ appstore 409203825 Numbers (4.3)
 appstore 409201541 Pages (6.3)
 appstore 568494494 Pocket (1.6.2)
 appstore 880001334 Reeder (3.0.5)
-appstore 1176895641 Spark (1.4.2)
+appstore 1176895641 Spark (1.4.3)
 appstore 557168941 Tweetbot (2.5.3)
 appstore 1227057295 TweetShot (1.3.1)
 appstore 1224961763 TweetTicker (1.3.1)
