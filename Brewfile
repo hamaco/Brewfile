@@ -54,6 +54,7 @@ cask steam
 cask the-unarchiver
 cask tweeten
 cask virtualbox
+cask visual-studio-code
 cask wireshark
 cask yabumi
 
