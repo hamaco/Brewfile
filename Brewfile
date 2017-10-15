@@ -12,9 +12,11 @@ cask bartender
 cask bdash
 cask bettertouchtool
 cask boostnote
+cask brave
 cask charles
 cask contexts
 cask coteditor
+cask discord
 cask docker
 cask dropbox
 cask flux
@@ -182,7 +184,7 @@ appstore 409203825 Numbers (4.3)
 appstore 409201541 Pages (6.3)
 appstore 568494494 Pocket (1.6.2)
 appstore 880001334 Reeder (3.0.5)
-appstore 1176895641 Spark (1.4.3)
+appstore 1176895641 Spark (1.5.1)
 appstore 557168941 Tweetbot (2.5.3)
 appstore 1227057295 TweetShot (1.3.1)
 appstore 1224961763 TweetTicker (1.3.1)
