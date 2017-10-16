@@ -36,7 +36,6 @@ cask keepingyouawake
 cask kindle
 cask libreoffice
 cask little-snitch
-cask macvim
 cask mapture
 cask marp
 cask omnifocus
