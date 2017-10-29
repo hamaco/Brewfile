@@ -121,6 +121,7 @@ cask keepingyouawake
 cask kindle
 cask libreoffice
 cask little-snitch
+cask macvim
 cask mapture
 cask marp
 cask mplayerx
@@ -191,7 +192,7 @@ appstore 409203825 Numbers (4.3)
 appstore 409201541 Pages (6.3)
 appstore 568494494 Pocket (1.6.2)
 appstore 880001334 Reeder (3.0.5)
-appstore 1176895641 Spark (1.5.1)
+appstore 1176895641 Spark (1.5.2)
 appstore 557168941 Tweetbot (2.5.3)
 appstore 1227057295 TweetShot (1.3.1)
 appstore 1224961763 TweetTicker (1.3.1)
