@@ -135,6 +135,7 @@ cask scroll-reverser
 cask seil
 cask sequel-pro
 cask sketch
+cask skitch
 cask skype
 cask slack
 cask slate
@@ -198,4 +199,4 @@ appstore 1227057295 TweetShot (1.3.1)
 appstore 1224961763 TweetTicker (1.3.1)
 appstore 494803304 WiFi Explorer (2.3.2)
 appstore 525912054 WiFi Signal (4.0.6)
-appstore 497799835 Xcode (9.0)
+appstore 497799835 Xcode (9.0.1)
