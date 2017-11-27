@@ -124,6 +124,7 @@ cask little-snitch
 cask mapture
 cask marp
 cask mplayerx
+cask mysqlworkbench
 cask omnifocus
 cask omnigraffle
 cask phpstorm
@@ -179,23 +180,3 @@ brew universal-ctags --HEAD
 
 # Cask applications
 cask sitesucker
-
-# App Store applications
-appstore 961632517 Be Focused Pro (1.6.2)
-appstore 1091189122 Bear (1.3.1)
-appstore 411643860 DaisyDisk (4.4)
-appstore 435003921 Fantastical (1.3.19)
-appstore 1142151959 JustFocus (1.3.4)
-appstore 1144071713 KeiSignal (2.0.3)
-appstore 409183694 Keynote (7.3)
-appstore 409203825 Numbers (4.3)
-appstore 409201541 Pages (6.3)
-appstore 568494494 Pocket (1.6.2)
-appstore 880001334 Reeder (3.0.5)
-appstore 1176895641 Spark (1.5.3)
-appstore 557168941 Tweetbot (2.5.3)
-appstore 1227057295 TweetShot (1.5.0)
-appstore 1224961763 TweetTicker (1.3.1)
-appstore 494803304 WiFi Explorer (2.3.2)
-appstore 525912054 WiFi Signal (4.0.6)
-appstore 497799835 Xcode (9.1)
