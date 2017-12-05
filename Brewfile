@@ -141,6 +141,7 @@ cask slack
 cask slate
 cask steam
 cask the-unarchiver
+cask tunnelblick
 cask tweeten
 cask virtualbox
 cask visual-studio-code
