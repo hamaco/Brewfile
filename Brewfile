@@ -50,6 +50,7 @@ brew msgpack
 brew mysql
 brew neovim
 brew nkf
+brew nmap
 brew node
 brew oniguruma
 brew openssh
