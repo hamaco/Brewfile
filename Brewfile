@@ -29,11 +29,13 @@ brew keychain
 brew lame
 brew libevent
 brew libiconv
+brew libidn2
 brew libpng
 brew libssh2
 brew libtermkey
 brew libtiff
 brew libtool
+brew libunistring
 brew libuv
 brew libvterm
 brew libxml2
