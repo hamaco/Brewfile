@@ -37,6 +37,7 @@ brew libtiff
 brew libtool
 brew libunistring
 brew libuv
+brew libvpx
 brew libvterm
 brew libxml2
 brew libxslt
@@ -50,6 +51,7 @@ brew mhash
 brew mono
 brew msgpack
 brew mysql
+brew nasm
 brew neovim
 brew nkf
 brew nmap
@@ -74,6 +76,7 @@ brew ruby-build
 brew rust
 brew speedtest-cli
 brew sqlite
+brew texi2html
 brew the_platinum_searcher
 brew tig
 brew tmux
@@ -122,6 +125,7 @@ cask java
 cask karabiner-elements
 cask keepingyouawake
 cask kindle
+cask kotori
 cask libreoffice
 cask little-snitch
 cask mapture
@@ -134,6 +138,7 @@ cask phpstorm
 cask poedit
 cask popsql
 cask postico
+cask quail
 cask scroll-reverser
 cask seil
 cask sequel-pro
