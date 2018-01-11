@@ -7,7 +7,7 @@ brew automake
 brew cmake
 brew diff-so-fancy
 brew direnv
-brew ffmpeg
+brew ffmpeg --with-libvpx
 brew fontconfig
 brew freetype
 brew gdbm
