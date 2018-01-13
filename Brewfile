@@ -151,6 +151,7 @@ cask steam
 cask the-unarchiver
 cask tunnelblick
 cask tweeten
+cask vagrant
 cask virtualbox
 cask visual-studio-code
 cask vlc
