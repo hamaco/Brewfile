@@ -132,6 +132,7 @@ cask mapture
 cask marp
 cask mplayerx
 cask mysqlworkbench
+cask near-lock
 cask omnifocus
 cask omnigraffle
 cask phpstorm
