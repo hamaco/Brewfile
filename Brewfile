@@ -7,6 +7,7 @@ brew automake
 brew cmake
 brew diff-so-fancy
 brew direnv
+brew exa
 brew ffmpeg --with-libvpx
 brew fontconfig
 brew freetype
@@ -168,6 +169,9 @@ cask airmail-beta
 cask firefox-beta
 cask microsoft-remote-desktop-beta
 cask vivaldi-snapshot
+
+tap kyoshidajp/ghkw
+brew ghkw
 
 tap matsub/anyenv
 brew anyenv
