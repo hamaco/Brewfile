@@ -67,7 +67,6 @@ brew peco
 brew pkg-config
 brew pv
 brew python
-brew python3
 brew rbenv
 brew re2c
 brew readline
@@ -96,6 +95,7 @@ tap homebrew/dupes
 tap caskroom/cask
 cask 0xed
 cask 1password
+cask 5kplayer
 cask alfred
 cask appcleaner
 cask aquaskk
