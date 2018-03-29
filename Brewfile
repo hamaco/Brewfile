@@ -130,7 +130,6 @@ cask kotori
 cask libreoffice
 cask little-snitch
 cask mapture
-cask marp
 cask mplayerx
 cask mysqlworkbench
 cask near-lock
@@ -152,7 +151,6 @@ cask slate
 cask steam
 cask the-unarchiver
 cask tunnelblick
-cask tweeten
 cask vagrant
 cask virtualbox
 cask visual-studio-code
@@ -193,5 +191,5 @@ brew highway
 tap universal-ctags/universal-ctags
 brew universal-ctags --HEAD
 
-# Cask applications
+# Other Cask applications
 cask sitesucker
