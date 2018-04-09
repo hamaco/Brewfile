@@ -21,6 +21,7 @@ brew gnu-getopt
 brew go
 brew gperftools
 brew httpie
+brew hub
 brew icu4c
 brew imagemagick
 brew jemalloc
@@ -92,6 +93,8 @@ brew zsh
 
 tap homebrew/dupes
 
+tap homebrew/services
+
 tap caskroom/cask
 cask 0xed
 cask 1password
@@ -139,6 +142,7 @@ cask phpstorm
 cask poedit
 cask popsql
 cask postico
+cask postman
 cask quail
 cask scroll-reverser
 cask seil
@@ -168,8 +172,14 @@ cask firefox-beta
 cask microsoft-remote-desktop-beta
 cask vivaldi-snapshot
 
+tap aereal/mackerelappactivity
+cask mackerelappactivity
+
 tap kyoshidajp/ghkw
 brew ghkw
+
+tap mackerelio/mackerel-agent
+brew mackerel-agent
 
 tap matsub/anyenv
 brew anyenv
@@ -203,11 +213,12 @@ appstore 1144071713 KeiSignal (2.0.3)
 appstore 409183694 Keynote (8.0)
 appstore  Install macOS High Sierra (13105)
 appstore 409203825 Numbers (5.0)
+appstore 409201541 Pages (7.0)
 appstore 568494494 Pocket (1.6.2)
 appstore 880001334 Reeder (3.1.2)
 appstore 1176895641 Spark (1.5.10)
 appstore 557168941 Tweetbot (2.5.4)
-appstore 1227057295 TweetShot (1.6.1)
+appstore 1227057295 TweetShot (1.6.3)
 appstore 1224961763 TweetTicker (1.3.1)
 appstore 494803304 WiFi Explorer (2.4)
 appstore 525912054 WiFi Signal (4.0.7)
