@@ -127,6 +127,7 @@ cask istat-menus
 cask iterm2
 cask jasper
 cask java
+cask jetbrains-toolbox
 cask karabiner-elements
 cask keepingyouawake
 cask kindle
@@ -139,7 +140,6 @@ cask mysqlworkbench
 cask near-lock
 cask omnifocus
 cask omnigraffle
-cask phpstorm
 cask poedit
 cask popsql
 cask postico
@@ -212,7 +212,7 @@ appstore 435003921 Fantastical (1.3.19)
 appstore 1142151959 JustFocus (1.6.1)
 appstore 1144071713 KeiSignal (2.0.3)
 appstore 409183694 Keynote (8.0)
-appstore  Install macOS High Sierra (13105)
+appstore Install macOS High Sierra (13105)
 appstore 409203825 Numbers (5.0)
 appstore 409201541 Pages (7.0)
 appstore 568494494 Pocket (1.6.2)
