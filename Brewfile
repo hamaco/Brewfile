@@ -83,6 +83,7 @@ brew tig
 brew tmux
 brew tree
 brew unibilium
+brew unrar
 brew utf8proc
 brew wget
 brew x264
