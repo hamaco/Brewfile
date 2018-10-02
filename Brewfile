@@ -123,30 +123,31 @@ cask contexts
 cask discord
 cask dropbox
 cask franz
-cask google-chrome
-cask hyperswitch
-cask insomnia
-cask iterm2
-cask java
-cask karabiner-elements
-cask kindle
-cask libreoffice
-cask mapture
-cask mysqlworkbench
-cask omnifocus
-cask phpstorm
-cask popsql
-cask postman
-cask scroll-reverser
-cask sequel-pro
+cask gitscout
+cask hammerspoon
+cask inkdrop
+cask istat-menus
+cask jasper
+cask jetbrains-toolbox
+cask keepingyouawake
+cask kotori
+cask little-snitch
+cask mplayerx
+cask near-lock
+cask omnigraffle
+cask poedit
+cask postico
+cask quail
+cask seil
 cask sketch
 cask skype
 cask slate
 cask teensy
-cask transmit
-cask vagrant
-cask visual-studio-code
-cask wireshark
+cask trailer
+cask tunnelblick
+cask virtualbox
+cask vlc
+cask yabumi
 
 tap jesseduffield/lazygit
 brew lazygit
@@ -192,35 +193,35 @@ cask docker
 cask flux
 cask font-source-han-code-jp
 cask gas-mask
-cask hammerspoon
-cask inkdrop
-cask istat-menus
-cask jasper
-cask jetbrains-toolbox
-cask keepingyouawake
-cask kotori
-cask little-snitch
-cask mackerelappactivity
-cask mplayerx
-cask near-lock
-cask omnigraffle
-cask poedit
-cask postico
-cask quail
-cask seil
+cask google-chrome
+cask hyperswitch
+cask insomnia
+cask iterm2
+cask java
+cask karabiner-elements
+cask kindle
+cask libreoffice
+cask mapture
+cask mysqlworkbench
+cask omnifocus
+cask phpstorm
+cask popsql
+cask postman
+cask scroll-reverser
+cask sequel-pro
 cask sitesucker
 cask skitch
 cask slack
 cask steam
 cask the-unarchiver
-cask tunnelblick
-cask virtualbox
-cask vlc
-cask yabumi
+cask transmit
+cask vagrant
+cask visual-studio-code
+cask wireshark
 
 # App Store applications
 appstore 961632517 Be Focused Pro (1.7.4)
-appstore 411643860 DaisyDisk (4.6.1)
+appstore 411643860 DaisyDisk (4.6.5)
 appstore 1055511498 Day One (2.7.4)
 appstore 435003921 Fantastical (1.3.19)
 appstore 1142151959 JustFocus (1.6.1)
@@ -229,12 +230,13 @@ appstore 409183694 Keynote (8.1)
 appstore  Install macOS High Sierra (13105)
 appstore 409203825 Numbers (5.1)
 appstore 409201541 Pages (7.1)
-appstore 568494494 Pocket (1.7.9)
-appstore 880001334 Reeder (3.2)
-appstore 1176895641 Spark (2.0.11)
+appstore 568494494 Pocket (1.8.1)
+appstore 880001334 Reeder (3.2.1)
+appstore 1176895641 Spark (2.0.13)
 appstore 557168941 Tweetbot (2.5.8)
 appstore 1384080005 Tweetbot (3.1)
+appstore 1227057295 TweetShot (1.6.5)
 appstore 1224961763 TweetTicker (1.3.1)
-appstore 494803304 WiFi Explorer (2.5)
-appstore 525912054 WiFi Signal (4.0.7)
+appstore 494803304 WiFi Explorer (2.5.1)
+appstore 525912054 WiFi Signal (4.1)
 appstore 497799835 Xcode (9.2)
