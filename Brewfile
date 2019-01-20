@@ -4,12 +4,12 @@
 tap homebrew/core
 brew autoconf
 brew automake
+brew awscli
 brew bat
 brew cmake
 brew diff-so-fancy
 brew direnv
 brew exa
-brew ffmpeg --with-libvpx
 brew fontconfig
 brew freetype
 brew gd
@@ -28,6 +28,7 @@ brew hub
 brew icu4c
 brew imagemagick
 brew jemalloc
+brew jid
 brew jpeg
 brew jq
 brew keychain
@@ -74,15 +75,16 @@ brew pkg-config
 brew prettyping
 brew pv
 brew python
+brew ranger
 brew rbenv
 brew re2c
 brew readline
 brew reattach-to-user-namespace
-brew ruby
 brew ruby-build
 brew rust
 brew speedtest-cli
 brew sqlite
+brew telnet
 brew texi2html
 brew the_platinum_searcher
 brew tig
@@ -106,6 +108,7 @@ tap homebrew/cask-versions
 cask airmail-beta
 cask firefox-beta
 cask microsoft-remote-desktop-beta
+cask sequel-pro-nightly
 cask vivaldi-snapshot
 
 tap homebrew/dupes
@@ -118,10 +121,10 @@ cask alfred
 cask aquaskk
 cask bartender
 cask bettertouchtool
-cask brave
-cask contexts
-cask discord
-cask dropbox
+cask charles
+cask coteditor
+cask docker
+cask duet
 cask franz
 cask gitscout
 cask hammerspoon
@@ -142,12 +145,12 @@ cask seil
 cask sketch
 cask skype
 cask slate
-cask teensy
-cask trailer
-cask tunnelblick
-cask virtualbox
-cask vlc
-cask yabumi
+cask tableplus
+cask the-unarchiver
+cask transmit
+cask vagrant
+cask visual-studio-code
+cask wireshark
 
 tap jesseduffield/lazygit
 brew lazygit
@@ -165,6 +168,7 @@ tap moncho/dry
 brew dry
 
 tap mscharley/homebrew
+brew alacritty
 
 tap neovim/neovim
 
@@ -174,6 +178,9 @@ brew brew-file
 tap splhack/splhack
 brew cmigemo-mk --HEAD
 brew macvim-kaoriya --HEAD
+
+tap tanishiking/jpp
+brew jpp
 
 tap tkengo/highway
 brew highway
@@ -187,9 +194,10 @@ cask appcleaner
 cask atom
 cask bdash
 cask boostnote
-cask charles
-cask coteditor
-cask docker
+cask brave
+cask contexts
+cask discord
+cask dropbox
 cask flux
 cask font-source-han-code-jp
 cask gas-mask
@@ -208,16 +216,16 @@ cask phpstorm
 cask popsql
 cask postman
 cask scroll-reverser
-cask sequel-pro
 cask sitesucker
 cask skitch
 cask slack
 cask steam
-cask the-unarchiver
-cask transmit
-cask vagrant
-cask visual-studio-code
-cask wireshark
+cask teensy
+cask trailer
+cask tunnelblick
+cask virtualbox
+cask vlc
+cask yabumi
 
 # App Store applications
 appstore 961632517 Be Focused Pro (1.7.4)
@@ -227,7 +235,7 @@ appstore 435003921 Fantastical (1.3.19)
 appstore 1142151959 JustFocus (1.6.1)
 appstore 1144071713 KeiSignal (2.0.3)
 appstore 409183694 Keynote (8.1)
-appstore  Install macOS High Sierra (13105)
+appstore Install macOS High Sierra (13105)
 appstore 409203825 Numbers (5.1)
 appstore 409201541 Pages (7.1)
 appstore 568494494 Pocket (1.8.1)
