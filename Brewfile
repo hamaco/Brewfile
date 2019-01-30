@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew anyenv
 brew autoconf
 brew automake
 brew awscli
@@ -23,6 +24,7 @@ brew gnu-getopt
 brew go
 brew gperftools
 brew graphviz
+brew gron
 brew httpie
 brew hub
 brew icu4c
@@ -132,16 +134,16 @@ cask inkdrop
 cask istat-menus
 cask jasper
 cask jetbrains-toolbox
-cask keepingyouawake
-cask kotori
-cask little-snitch
-cask mplayerx
-cask near-lock
-cask omnigraffle
-cask poedit
-cask postico
-cask quail
-cask seil
+cask karabiner-elements
+cask kindle
+cask libreoffice
+cask mapture
+cask mysqlworkbench
+cask omnifocus
+cask phpstorm
+cask popsql
+cask postman
+cask scroll-reverser
 cask sketch
 cask skype
 cask slate
@@ -162,7 +164,6 @@ tap mackerelio/mackerel-agent
 brew mackerel-agent
 
 tap matsub/anyenv
-brew anyenv
 
 tap moncho/dry
 brew dry
@@ -206,16 +207,17 @@ cask hyperswitch
 cask insomnia
 cask iterm2
 cask java
-cask karabiner-elements
-cask kindle
-cask libreoffice
-cask mapture
-cask mysqlworkbench
-cask omnifocus
-cask phpstorm
-cask popsql
-cask postman
-cask scroll-reverser
+cask kap
+cask keepingyouawake
+cask kotori
+cask little-snitch
+cask mplayerx
+cask near-lock
+cask omnigraffle
+cask poedit
+cask postico
+cask quail
+cask seil
 cask sitesucker
 cask skitch
 cask slack
