@@ -44,7 +44,6 @@ brew hub
 brew icu4c
 brew ilmbase
 brew imagemagick
-brew jasper
 brew jemalloc
 brew jid
 brew jpeg
@@ -297,10 +296,10 @@ appstore 961632517 Be Focused Pro (1.7.5)
 appstore 411643860 DaisyDisk (4.7.2)
 appstore 1055511498 Day One (3.0.4)
 appstore 435003921 Fantastical (1.3.19)
+appstore 0 Install macOS High Sierra (13.1.05)
 appstore 1142151959 JustFocus (1.6.4)
 appstore 1144071713 KeiSignal (2.0.3)
 appstore 409183694 Keynote (9.0.1)
-appstore  Install macOS High Sierra (13105)
 appstore 508957583 Nozbe (3.9.3)
 appstore 409203825 Numbers (6.0)
 appstore 409201541 Pages (8.0)
@@ -314,4 +313,4 @@ appstore 1227057295 TweetShot (1.8)
 appstore 1224961763 TweetTicker (1.3.1)
 appstore 494803304 WiFi Explorer (2.5.4)
 appstore 525912054 WiFi Signal (4.1.1)
-appstore 497799835 Xcode (10.2)
+appstore 497799835 Xcode (10.2.1)
