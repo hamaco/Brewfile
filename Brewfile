@@ -23,6 +23,7 @@ brew fribidi
 brew gd
 brew gdbm
 brew gettext
+brew ghostscript
 brew ghq
 brew giflib
 brew git
@@ -44,6 +45,7 @@ brew hub
 brew icu4c
 brew ilmbase
 brew imagemagick
+brew jasper
 brew jemalloc
 brew jid
 brew jpeg
@@ -164,7 +166,6 @@ cask font-fira-code
 cask font-source-han-code-jp
 
 tap homebrew/cask-versions
-cask airmail-beta
 cask firefox-beta
 cask microsoft-remote-desktop-beta
 cask sequel-pro-nightly
@@ -175,10 +176,11 @@ tap homebrew/services
 tap homebrew/cask
 cask 0xed
 cask adobe-acrobat-pro
-cask appcleaner
-cask atom
-cask bdash
-cask bluestacks
+cask alfred
+cask aquaskk
+cask bartender
+cask bettertouchtool
+cask boostnote
 cask charles
 cask coteditor
 cask docker
@@ -199,17 +201,17 @@ cask omnifocus
 cask poedit
 cask postico
 cask quail
-cask seil
 cask sketch
 cask skype
 cask slate
 cask steam
 cask teensy
-cask trailer
-cask tunnelblick
-cask virtualbox
-cask vlc
-cask wkhtmltopdf
+cask toggl
+cask transmit
+cask vagrant
+cask visual-studio-code
+cask wireshark
+cask yabumi
 
 tap delphinus/sfmono-square
 brew sfmono-square
@@ -253,11 +255,11 @@ brew universal-ctags --HEAD
 
 # Other Cask applications
 cask 1password
-cask alfred
-cask aquaskk
-cask bartender
-cask bettertouchtool
-cask boostnote
+cask airmail-beta
+cask appcleaner
+cask atom
+cask bdash
+cask bluestacks
 cask brave
 cask contexts
 cask discord
@@ -286,32 +288,32 @@ cask slack
 cask station
 cask tableplus
 cask the-unarchiver
-cask transmit
-cask vagrant
-cask visual-studio-code
-cask wireshark
-cask yabumi
+cask trailer
+cask tunnelblick
+cask virtualbox
+cask vlc
+cask wkhtmltopdf
 
 # App Store applications
 appstore 961632517 Be Focused Pro (1.7.5)
+appstore 1451177988 Carbonize (1.2.3)
+appstore 1224961763 com.kyome.tweetstream (1.3.1)
 appstore 411643860 DaisyDisk (4.7.2)
-appstore 1055511498 Day One (3.0.4)
+appstore 1055511498 Day One (3.0.5)
 appstore 435003921 Fantastical (1.3.19)
-appstore 1142151959 JustFocus (1.6.4)
+appstore 1142151959 Just Focus (1.6.4)
 appstore 1144071713 KeiSignal (2.0.3)
-appstore 409183694 Keynote (9.0.1)
-appstore  Install macOS High Sierra (13105)
+appstore 409183694 Keynote (9.0.2)
 appstore 508957583 Nozbe (3.9.3)
 appstore 409203825 Numbers (6.0)
 appstore 409201541 Pages (8.0)
 appstore 568494494 Pocket (1.8.2)
 appstore 880001334 Reeder (3.2.1)
-appstore 1176895641 Spark (2.3.2)
-appstore 585829637 Todoist (7.1.2)
+appstore 1176895641 Spark (2.3.3)
+appstore 585829637 Todoist (7.1.3)
 appstore 557168941 Tweetbot (2.5.8)
 appstore 1384080005 Tweetbot (3.2.2)
-appstore 1227057295 TweetShot (1.8)
-appstore 1224961763 TweetTicker (1.3.1)
+appstore 1227057295 TweetShot (1.9)
 appstore 494803304 WiFi Explorer (2.5.4)
 appstore 525912054 WiFi Signal (4.1.1)
 appstore 497799835 Xcode (10.2.1)
