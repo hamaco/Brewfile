@@ -88,6 +88,7 @@ brew little-cms2
 brew lua
 brew lua@5.1
 brew luajit
+brew lzo
 brew mas
 brew mcrypt
 brew mhash
@@ -208,10 +209,10 @@ cask steam
 cask teensy
 cask toggl
 cask transmit
-cask vagrant
-cask visual-studio-code
-cask wireshark
-cask yabumi
+cask typora
+cask virtualbox
+cask vlc
+cask wkhtmltopdf
 
 tap delphinus/sfmono-square
 brew sfmono-square
@@ -221,6 +222,9 @@ brew heroku
 brew heroku-node
 
 tap jesseduffield/lazygit
+
+tap k1low/tap
+brew tbls
 
 tap kyoshidajp/ghkw
 brew ghkw
@@ -290,30 +294,32 @@ cask tableplus
 cask the-unarchiver
 cask trailer
 cask tunnelblick
-cask virtualbox
-cask vlc
-cask wkhtmltopdf
+cask vagrant
+cask visual-studio-code
+cask wireshark
+cask yabumi
 
 # App Store applications
 appstore 961632517 Be Focused Pro (1.7.5)
-appstore 1451177988 Carbonize (1.2.3)
+appstore 1451177988 Carbonize (1.2.5)
 appstore 1224961763 com.kyome.tweetstream (1.3.1)
 appstore 411643860 DaisyDisk (4.7.2)
-appstore 1055511498 Day One (3.0.5)
+appstore 1055511498 Day One (3.2)
 appstore 435003921 Fantastical (1.3.19)
 appstore 1142151959 Just Focus (1.6.4)
 appstore 1144071713 KeiSignal (2.0.3)
-appstore 409183694 Keynote (9.0.2)
-appstore 508957583 Nozbe (3.9.3)
-appstore 409203825 Numbers (6.0)
-appstore 409201541 Pages (8.0)
+appstore 409183694 Keynote (9.1)
+appstore 539883307 LINE (5.17.2)
+appstore 508957583 Nozbe (3.10)
+appstore 409203825 Numbers (6.1)
+appstore 409201541 Pages (8.1)
 appstore 568494494 Pocket (1.8.2)
 appstore 880001334 Reeder (3.2.1)
-appstore 1176895641 Spark (2.3.3)
+appstore 1176895641 Spark (2.3.9)
 appstore 585829637 Todoist (7.1.3)
 appstore 557168941 Tweetbot (2.5.8)
-appstore 1384080005 Tweetbot (3.2.2)
-appstore 1227057295 TweetShot (1.9)
-appstore 494803304 WiFi Explorer (2.5.4)
-appstore 525912054 WiFi Signal (4.1.1)
+appstore 1384080005 Tweetbot (3.3)
+appstore 1227057295 TweetShot (2.0)
+appstore 494803304 WiFi Explorer (2.5.5)
+appstore 525912054 WiFi Signal (4.1.2)
 appstore 497799835 Xcode (10.2.1)
