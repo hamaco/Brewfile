@@ -180,6 +180,7 @@ tap homebrew/cask
 cask 0xed
 cask adobe-acrobat-pro
 cask alfred
+cask android-sdk
 cask aquaskk
 cask bartender
 cask bettertouchtool
@@ -200,7 +201,8 @@ cask kindle
 cask libreoffice
 cask mapture
 cask mysqlworkbench
-cask omnifocus
+cask netspot
+cask omnigraffle
 cask poedit
 cask postico
 cask quail
@@ -262,6 +264,7 @@ brew universal-ctags --HEAD
 # Other Cask applications
 cask 1password
 cask airmail-beta
+cask amazon-music
 cask appcleaner
 cask atom
 cask bdash
@@ -284,7 +287,8 @@ cask kotori
 cask little-snitch
 cask mplayerx
 cask near-lock
-cask omnigraffle
+cask omnifocus
+cask pdf-expert
 cask popsql
 cask postman
 cask scroll-reverser
@@ -303,25 +307,25 @@ cask yabumi
 
 # App Store applications
 appstore 961632517 Be Focused Pro (1.7.5)
-appstore 1451177988 Carbonize (1.2.6)
+appstore 1451177988 Carbonize (1.2.8)
 appstore 1224961763 com.kyome.tweetstream (1.3.1)
 appstore 411643860 DaisyDisk (4.8)
 appstore 1055511498 Day One (4.1.1)
 appstore 435003921 Fantastical (1.3.19)
 appstore 1142151959 Just Focus (1.6.4)
-appstore 1144071713 KeiSignal (3.0.2)
-appstore 409183694 Keynote (9.1)
+appstore 1144071713 KeiSignal (3.0.3)
+appstore 409183694 Keynote (9.2)
 appstore 539883307 LINE (5.19.0)
 appstore 508957583 Nozbe (3.10.2)
-appstore 409203825 Numbers (6.1)
-appstore 409201541 Pages (8.1)
-appstore 568494494 Pocket (1.8.2)
-appstore 880001334 Reeder (3.2.1)
-appstore 1176895641 Spark (2.3.11)
+appstore 409203825 Numbers (6.2)
+appstore 409201541 Pages (8.2)
+appstore 568494494 Pocket (1.8.4)
+appstore 880001334 Reeder (3.2.2)
+appstore 1176895641 Spark (2.3.12)
 appstore 585829637 Todoist (7.1.3)
 appstore 557168941 Tweetbot (2.5.8)
 appstore 1384080005 Tweetbot (3.3.1)
-appstore 1227057295 TweetShot (3.1)
+appstore 1227057295 TweetShot (3.3)
 appstore 494803304 WiFi Explorer (2.6)
 appstore 525912054 WiFi Signal (4.1.3)
 appstore 497799835 Xcode (11.0)
