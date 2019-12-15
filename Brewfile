@@ -12,6 +12,7 @@ brew cairo
 brew cmake
 brew diff-so-fancy
 brew direnv
+brew docutils
 brew exa
 brew ffmpeg
 brew flac
@@ -111,7 +112,6 @@ brew openexr
 brew openfortivpn
 brew openjpeg
 brew openssh
-brew openssl
 brew openssl@1.1
 brew opus
 brew p11-kit
@@ -123,6 +123,7 @@ brew peco
 brew pixman
 brew pkg-config
 brew prettyping
+brew protobuf@3.7
 brew pv
 brew python
 brew python@2
@@ -310,19 +311,20 @@ appstore 961632517 Be Focused Pro (1.7.5)
 appstore 1451177988 Carbonize (1.2.8)
 appstore 1224961763 com.kyome.tweetstream (1.3.1)
 appstore 411643860 DaisyDisk (4.8)
-appstore 1055511498 Day One (4.2.2)
+appstore 1055511498 Day One (4.2.3)
 appstore 435003921 Fantastical (1.3.19)
+appstore 1140787122 Habitify (6.0)
 appstore 1142151959 Just Focus (1.6.6)
 appstore 1144071713 KeiSignal (3.0.4)
-appstore 409183694 Keynote (9.2)
-appstore 539883307 LINE (5.19.1)
+appstore 409183694 Keynote (9.2.1)
+appstore 539883307 LINE (5.20.1)
 appstore 508957583 Nozbe (3.10.2)
-appstore 409203825 Numbers (6.2)
-appstore 409201541 Pages (8.2)
-appstore 568494494 Pocket (1.8.4)
+appstore 409203825 Numbers (6.2.1)
+appstore 409201541 Pages (8.2.1)
+appstore 568494494 Pocket (1.8.5)
 appstore 880001334 Reeder (3.2.2)
 appstore 1176895641 Spark (2.3.14)
-appstore 585829637 Todoist (7.2)
+appstore 585829637 Todoist (7.2.1)
 appstore 557168941 Tweetbot (2.5.8)
 appstore 1384080005 Tweetbot (3.3.3)
 appstore 1227057295 TweetShot (3.3)
