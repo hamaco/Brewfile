@@ -174,8 +174,7 @@ cask font-source-han-code-jp
 
 tap homebrew/cask-versions
 cask firefox-beta
-cask microsoft-remote-desktop-beta
-cask sequel-pro-nightly
+# cask microsoft-remote-desktop-beta
 cask vivaldi-snapshot
 
 tap homebrew/services
@@ -188,12 +187,10 @@ cask android-sdk
 cask aquaskk
 cask bartender
 cask bettertouchtool
-cask boostnote
 cask charles
 cask coteditor
 cask docker
 cask duet
-cask franz
 cask gitscout
 cask hammerspoon
 cask inkdrop
@@ -201,7 +198,6 @@ cask istat-menus
 cask jasper
 cask jetbrains-toolbox
 cask karabiner-elements
-cask kindle
 cask libreoffice
 cask mapture
 cask mysqlworkbench
