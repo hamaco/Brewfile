@@ -127,9 +127,6 @@ brew prettyping
 brew protobuf
 brew protobuf@3.7
 brew pv
-brew python
-brew python@2
-brew python@3.8
 brew ranger
 brew rbenv
 brew re2c
@@ -174,7 +171,6 @@ cask font-source-han-code-jp
 
 tap homebrew/cask-versions
 cask firefox-beta
-# cask microsoft-remote-desktop-beta
 cask vivaldi-snapshot
 
 tap homebrew/services
@@ -265,19 +261,13 @@ brew universal-ctags --HEAD
 
 # Other Cask applications
 cask 1password
-cask airmail-beta
-cask amazon-music
 cask appcleaner
-cask atom
 cask bdash
-cask bluestacks
-cask brave
-cask contexts
+cask brave-browser
 cask discord
 cask dropbox
 cask flux
 cask font-fontawesome
-cask gas-mask
 cask google-chrome
 cask hyperswitch
 cask insomnia
@@ -285,16 +275,15 @@ cask iterm2
 cask java
 cask kap
 cask keepingyouawake
-cask kotori
+# cask kotori
 cask little-snitch
 cask mplayerx
-cask near-lock
 cask omnifocus
 cask pdf-expert
 cask popsql
 cask postman
 cask scroll-reverser
-cask sitesucker
+# cask sitesucker
 cask skitch
 cask slack
 cask station
@@ -304,8 +293,7 @@ cask trailer
 cask tunnelblick
 cask vagrant
 cask visual-studio-code
-cask wireshark
-cask yabumi
+# cask wireshark
 
 # App Store applications
 appstore 961632517 Be Focused Pro (1.7.5)
