@@ -4,12 +4,19 @@
 tap homebrew/core
 brew anyenv
 brew aom
+brew apr
+brew apr-util
+brew argon2
+brew aspell
 brew autoconf
 brew automake
 brew awscli
 brew bat
+brew brotli
+brew c-ares
 brew cairo
 brew cmake
+brew curl-openssl
 brew dav1d
 brew diff-so-fancy
 brew direnv
@@ -22,6 +29,7 @@ brew ffmpeg
 brew flac
 brew fontconfig
 brew fontforge
+brew freetds
 brew freetype
 brew frei0r
 brew fribidi
@@ -52,6 +60,7 @@ brew hub
 brew icu4c
 brew ilmbase
 brew imagemagick
+brew jansson
 brew jasper
 brew jemalloc
 brew jid
@@ -59,6 +68,7 @@ brew jpeg
 brew jpegoptim
 brew jq
 brew keychain
+brew krb5
 brew lame
 brew lazygit
 brew ldns
@@ -67,18 +77,23 @@ brew libass
 brew libbluray
 brew libcbor
 brew libde265
+brew libev
 brew libevent
 brew libffi
 brew libfido2
 brew libheif
 brew libiconv
+brew libidn
 brew libidn2
 brew liblqr
+brew libmetalink
 brew libogg
 brew libomp
 brew libpng
+brew libpq
 brew libsamplerate
 brew libsndfile
+brew libsodium
 brew libsoxr
 brew libspiro
 brew libssh2
@@ -96,10 +111,12 @@ brew libvterm
 brew libxml2
 brew libxslt
 brew libyaml
+brew libzip
 brew little-cms2
 brew lua
 brew lua@5.1
 brew luajit
+brew lz4
 brew lzo
 brew mas
 brew mcrypt
@@ -112,6 +129,7 @@ brew nasm
 brew ncurses
 brew netpbm
 brew nettle
+brew nghttp2
 brew nkf
 brew nmap
 brew node
@@ -121,6 +139,7 @@ brew opencore-amr
 brew openexr
 brew openfortivpn
 brew openjpeg
+brew openldap
 brew openssh
 brew openssl@1.1
 brew opus
@@ -130,6 +149,8 @@ brew pango
 brew pcre
 brew pcre2
 brew peco
+brew perl
+brew php
 brew pixman
 brew pkg-config
 brew prettyping
@@ -155,11 +176,13 @@ brew speex
 brew sphinx-doc
 brew sqlite
 brew srt
+brew subversion
 brew telnet
 brew tesseract
 brew texi2html
 brew the_platinum_searcher
 brew theora
+brew tidy-html5
 brew tig
 brew tmux
 brew tmuxinator
@@ -167,6 +190,7 @@ brew trash
 brew tree
 brew unbound
 brew unibilium
+brew unixodbc
 brew unrar
 brew utf8proc
 brew webp
@@ -179,6 +203,7 @@ brew xz
 brew yarn
 brew zplug
 brew zsh
+brew zstd
 
 tap homebrew/cask-fonts
 cask font-fira-code
@@ -322,13 +347,13 @@ appstore 961632517 Be Focused Pro (2.0)
 appstore 1451177988 Carbonize (2020.1)
 appstore 1224961763 com.kyome.tweetstream (1.3.1)
 appstore 411643860 DaisyDisk (4.10)
-appstore 1055511498 Day One (4.15.3)
+appstore 1055511498 Day One (5.1)
 appstore 435003921 Fantastical (1.3.19)
 appstore 1140787122 Habitify (6.0)
 appstore 1142151959 Just Focus (1.6.6)
 appstore 1144071713 KeiSignal (3.0.4)
 appstore 409183694 Keynote (10.1)
-appstore 539883307 LINE (6.2.1)
+appstore 539883307 LINE (6.2.2)
 appstore 1295203466 Microsoft Remote Desktop (10.4.0)
 appstore 508957583 Nozbe (3.13)
 appstore 409203825 Numbers (10.1)
