@@ -12,6 +12,7 @@ brew autoconf
 brew automake
 brew awscli
 brew bat
+brew bdw-gc
 brew brotli
 brew c-ares
 brew cairo
@@ -54,6 +55,7 @@ brew graphite2
 brew graphviz
 brew gron
 brew gts
+brew guile
 brew harfbuzz
 brew httpie
 brew hub
@@ -344,9 +346,9 @@ tap universal-ctags/universal-ctags
 
 # App Store applications
 appstore 961632517 Be Focused Pro (2.0)
-appstore 1451177988 Carbonize (2020.1)
+appstore 1451177988 Carbonize (2020.2)
 appstore 1224961763 com.kyome.tweetstream (1.3.1)
-appstore 411643860 DaisyDisk (4.10)
+appstore 411643860 DaisyDisk (4.11)
 appstore 1055511498 Day One (5.1)
 appstore 435003921 Fantastical (1.3.19)
 appstore 1140787122 Habitify (6.0)
@@ -361,10 +363,10 @@ appstore 409201541 Pages (10.1)
 appstore 568494494 Pocket (1.8.5)
 appstore 880001334 Reeder (3.2.3)
 appstore 1176895641 Spark (2.8.2)
-appstore 585829637 Todoist (7.3.2)
+appstore 585829637 Todoist (7.3.3)
 appstore 557168941 Tweetbot (2.5.8)
-appstore 1384080005 Tweetbot (3.3.3)
+appstore 1384080005 Tweetbot (3.4.1)
 appstore 1227057295 TweetShot (4.5.3)
 appstore 494803304 WiFi Explorer (2.6.2)
 appstore 525912054 WiFi Signal (4.3.1)
-appstore 497799835 Xcode (11.6)
+appstore 497799835 Xcode (11.7)
