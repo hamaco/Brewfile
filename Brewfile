@@ -63,7 +63,6 @@ brew icu4c
 brew ilmbase
 brew imagemagick
 brew jansson
-brew jasper
 brew jemalloc
 brew jid
 brew jpeg
@@ -223,8 +222,10 @@ tap homebrew/cask
 cask 0xed
 cask 1password
 cask adobe-acrobat-pro
+cask adobe-creative-cloud
 cask alacritty
 cask alfred
+cask alt-tab
 cask appcleaner
 cask aquaskk
 cask bartender
@@ -249,7 +250,6 @@ cask insomnia
 cask istat-menus
 cask iterm2
 cask jasper
-cask java
 cask jetbrains-toolbox
 cask kap
 cask karabiner-elements
@@ -345,6 +345,7 @@ brew highway
 tap universal-ctags/universal-ctags
 
 # Other Cask applications
+cask java
 cask toggl
 
 # App Store applications
