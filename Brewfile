@@ -63,6 +63,7 @@ brew icu4c
 brew ilmbase
 brew imagemagick
 brew jansson
+brew jasper
 brew jemalloc
 brew jid
 brew jpeg
@@ -159,6 +160,7 @@ brew prettyping
 brew protobuf
 brew pv
 brew python@3.8
+brew python@3.9
 brew ranger
 brew rav1e
 brew rbenv
@@ -264,6 +266,7 @@ cask mplayerx
 cask mysqlworkbench
 cask ngrok
 cask notion
+cask obsidian
 cask omnifocus
 cask omnigraffle
 cask pdf-expert
@@ -362,6 +365,7 @@ appstore 1142151959 Just Focus (1.6.6)
 appstore 1144071713 KeiSignal (3.0.4)
 appstore 409183694 Keynote (10.2)
 appstore 539883307 LINE (6.3.1)
+appstore 462058435 Microsoft Excel (16.41)
 appstore 1295203466 Microsoft Remote Desktop (10.4.0)
 appstore 508957583 Nozbe (3.13)
 appstore 409203825 Numbers (10.2)
