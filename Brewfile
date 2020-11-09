@@ -210,6 +210,7 @@ brew zsh
 brew zstd
 
 tap homebrew/cask-fonts
+cask font-cica
 cask font-fira-code
 cask font-fontawesome
 cask font-hackgen
@@ -356,27 +357,27 @@ cask toggl
 appstore 961632517 Be Focused Pro (2.0)
 appstore 1451177988 Carbonize (2020.4)
 appstore 1224961763 com.kyome.tweetstream (1.3.1)
-appstore 1509135075 com.slashlos.he3 (1.0.1)
 appstore 411643860 DaisyDisk (4.11)
-appstore 1055511498 Day One (5.3)
+appstore 1055511498 Day One (5.4)
 appstore 435003921 Fantastical (1.3.19)
 appstore 1140787122 Habitify (6.0)
+appstore 1509135075 He3 (Helium 3) (1.0.2)
 appstore 1142151959 Just Focus (1.6.6)
 appstore 1144071713 KeiSignal (3.0.4)
 appstore 409183694 Keynote (10.2)
-appstore 539883307 LINE (6.3.1)
-appstore 462058435 Microsoft Excel (16.41)
-appstore 1295203466 Microsoft Remote Desktop (10.4.0)
+appstore 539883307 LINE (6.3.2)
+appstore 462058435 Microsoft Excel (16.42)
+appstore 1295203466 Microsoft Remote Desktop (10.4.1)
 appstore 508957583 Nozbe (3.13)
 appstore 409203825 Numbers (10.2)
 appstore 409201541 Pages (10.2)
 appstore 568494494 Pocket (1.8.5)
 appstore 880001334 Reeder (3.2.3)
-appstore 1176895641 Spark (2.8.3)
+appstore 1176895641 Spark (2.9.9)
 appstore 585829637 Todoist (7.3.4)
 appstore 557168941 Tweetbot (2.5.8)
-appstore 1384080005 Tweetbot (3.4.2)
-appstore 1227057295 TweetShot (4.5.5)
+appstore 1384080005 Tweetbot (3.4.3)
+appstore 1227057295 TweetShot (4.7)
 appstore 494803304 WiFi Explorer (2.6.2)
 appstore 525912054 WiFi Signal (4.3.1)
-appstore 497799835 Xcode (12.0)
+appstore 497799835 Xcode (12.0.1)
