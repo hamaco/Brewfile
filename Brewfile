@@ -58,7 +58,6 @@ brew gts
 brew guile
 brew harfbuzz
 brew httpie
-brew hub
 brew icu4c
 brew ilmbase
 brew imagemagick
@@ -234,7 +233,6 @@ cask appcleaner
 cask aquaskk
 cask bartender
 cask bdash
-cask bettertouchtool
 cask biscuit
 cask brave-browser
 cask charles
@@ -278,6 +276,7 @@ cask postman
 cask quail
 cask rectangle
 cask scroll-reverser
+cask setapp
 cask sketch
 cask skitch
 cask skype
