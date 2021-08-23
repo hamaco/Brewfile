@@ -70,8 +70,10 @@ brew hub
 brew icu4c
 brew ilmbase
 brew imagemagick
+brew imath
 brew jansson
 brew jasper
+brew jbig2dec
 brew jemalloc
 brew jid
 brew jpeg
@@ -138,6 +140,7 @@ brew lua@5.1
 brew luajit
 brew lz4
 brew lzo
+brew m4
 brew mas
 brew mcrypt
 brew mhash
@@ -194,6 +197,7 @@ brew ruby-build
 brew rust
 brew sdl2
 brew shared-mime-info
+brew six
 brew snappy
 brew speedtest-cli
 brew speex
@@ -242,7 +246,6 @@ cask font-fira-code
 cask font-fontawesome
 cask font-hackgen
 cask font-input
-cask font-source-han-code-jp
 
 tap homebrew/cask-versions
 cask firefox-beta
@@ -275,7 +278,6 @@ cask duet
 cask gitscout
 cask google-chrome
 cask gyazo
-cask hammerspoon
 cask hyperswitch
 cask iina
 cask imageoptim
@@ -332,7 +334,6 @@ cask vlc
 cask wireshark
 cask wkhtmltopdf
 cask zoom
-cask zoomus
 
 tap dart-lang/dart
 brew dart
@@ -390,40 +391,3 @@ tap tkengo/highway
 brew highway
 
 tap universal-ctags/universal-ctags
-
-# Other Homebrew packages
-brew unrar
-
-# Other Cask applications
-cask 0xed
-cask java
-cask toggl
-
-# App Store applications
-appstore 961632517 Be Focused Pro (2.0.2)
-appstore 1224961763 com.kyome.tweetstream (1.3.1)
-appstore 411643860 DaisyDisk (4.12.1)
-appstore 1055511498 Day One (5.9.1)
-appstore 435003921 Fantastical (1.3.19)
-appstore 1140787122 Habitify (6.0)
-appstore 1509135075 He3 (Helium 3) (1.0.4)
-appstore 1142151959 Just Focus (1.6.8)
-appstore 1144071713 KeiSignal (3.0.4)
-appstore 409183694 Keynote (10.3.9)
-appstore 539883307 LINE (6.7.0)
-appstore 462058435 Microsoft Excel (16.46)
-appstore 1295203466 Microsoft Remote Desktop (10.5.2)
-appstore 508957583 Nozbe (3.13)
-appstore 409203825 Numbers (10.3.9)
-appstore 409201541 Pages (10.3.9)
-appstore 1451177988 Petrify (2020.5)
-appstore 568494494 Pocket (1.8.6)
-appstore 880001334 Reeder (3.2.3)
-appstore 1176895641 Spark (2.9.15)
-appstore 585829637 Todoist (7.5)
-appstore 557168941 Tweetbot (2.5.8)
-appstore 1384080005 Tweetbot (3.5.2)
-appstore 1227057295 TweetShot (4.8)
-appstore 494803304 WiFi Explorer (3.0.4)
-appstore 525912054 WiFi Signal (4.4.1)
-appstore 497799835 Xcode (12.3)
