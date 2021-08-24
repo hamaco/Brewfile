@@ -14,6 +14,7 @@ brew awscli
 brew bat
 brew bdw-gc
 brew berkeley-db
+brew bluetoothconnector
 brew brotli
 brew c-ares
 brew cairo
