@@ -391,3 +391,7 @@ tap tkengo/highway
 brew highway
 
 tap universal-ctags/universal-ctags
+
+# App Store applications
+appstore 1187652334  Fuwari     (0.6.0)
+appstore 1227057295  TweetShot  (4.9.1)
