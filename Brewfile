@@ -207,6 +207,7 @@ brew sqlite
 brew srt
 brew starship
 brew subversion
+brew switchaudio-osx
 brew tcl-tk
 brew telnet
 brew tesseract
@@ -250,7 +251,6 @@ cask font-input
 
 tap homebrew/cask-versions
 cask firefox-beta
-cask vivaldi-snapshot
 
 tap homebrew/services
 
@@ -320,6 +320,7 @@ cask skitch
 cask skype
 cask slack
 cask slate
+cask stats
 cask steam
 cask teensy
 cask the-unarchiver
@@ -331,6 +332,7 @@ cask typora
 cask vagrant
 cask virtualbox
 cask visual-studio-code
+cask vivaldi
 cask vlc
 cask wireshark
 cask wkhtmltopdf
