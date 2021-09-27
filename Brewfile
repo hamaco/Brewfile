@@ -9,12 +9,12 @@ brew bzip2
 brew c-ares
 brew cairo
 brew curl
+brew dotenv-linter --HEAD
 brew expat
 brew fontconfig
 brew freetype
 brew fzf
 brew gcc
-brew gcc@5
 brew gdbm
 brew gettext
 brew gh
@@ -28,7 +28,6 @@ brew harfbuzz
 brew httpie
 brew icu4c
 brew isl
-brew isl@0.18
 brew jemalloc
 brew jq
 brew krb5
@@ -75,6 +74,7 @@ brew python@3.9
 brew readline
 brew ripgrep
 brew rtmpdump
+brew rust
 brew sqlite
 brew tig
 brew tree-sitter
@@ -87,6 +87,9 @@ brew xz
 brew yq
 brew zlib
 brew zstd
+
+tap itchyny/tap
+brew mmv
 
 tap rcmdnk/file
 brew brew-file
