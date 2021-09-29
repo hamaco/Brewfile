@@ -1,3 +1,6 @@
+tap uzimaru0000/tap
+brew tv
+
 # Homebrew cask
 tap homebrew/cask
 cask 1password

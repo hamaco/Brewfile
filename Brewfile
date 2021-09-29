@@ -56,6 +56,7 @@ brew luajit-openresty
 brew luv
 brew lzo
 brew m4
+brew mmv
 brew mpdecimal
 brew mpfr
 brew msgpack
@@ -89,16 +90,12 @@ brew zlib
 brew zstd
 
 tap itchyny/tap
-brew mmv
 
 tap rcmdnk/file
 brew brew-file
 
-tap uzimaru0000/tap
-brew tv
-
-# Additional files
-file ./Brewfile.$PLATFORM
+# Main file
+main ./Brewfile.$PLATFORM
 
 # Other commands
 jap homebrew/cask-versions

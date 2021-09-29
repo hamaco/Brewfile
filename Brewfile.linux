@@ -1,0 +1,11 @@
+
+# tap repositories and their packages
+
+tap homebrew/core
+brew deno
+
+tap itchyny/tap
+
+tap rcmdnk/file
+
+tap uzimaru0000/tap
