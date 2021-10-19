@@ -8,6 +8,7 @@ brew ca-certificates
 brew dbus
 brew deno
 brew elfutils
+brew fd
 brew flex
 brew freeglut
 brew ghostscript
