@@ -3,11 +3,15 @@
 
 tap homebrew/core
 brew awscli
+brew bat
 brew berkeley-db
 brew ca-certificates
 brew dbus
 brew deno
+brew diff-so-fancy
+brew dog
 brew elfutils
+brew exa
 brew fd
 brew flex
 brew freeglut
@@ -18,6 +22,8 @@ brew jbig2dec
 brew jpeg
 brew libdrm
 brew libedit
+brew libevent
+brew libgit2
 brew libidn
 brew libnghttp2
 brew libpciaccess
@@ -50,14 +56,22 @@ brew python@3.10
 brew ruby
 brew six
 brew starship
+brew tmux
+brew tmuxinator
 brew uchardet
 brew vim
 brew wayland
 brew wayland-protocols
 brew xinput
 
+tap aquaproj/aqua
+brew aqua
+
 tap itchyny/tap
 
 tap rcmdnk/file
+
+tap teamookla/speedtest
+brew speedtest
 
 tap uzimaru0000/tap
