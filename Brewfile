@@ -17,7 +17,6 @@ brew fzf
 brew gcc
 brew gdbm
 brew gettext
-brew gh
 brew ghq
 brew git
 brew glib
@@ -96,6 +95,3 @@ brew brew-file
 
 # Main file
 main ./Brewfile.$PLATFORM
-
-# Other commands
-jap homebrew/cask-versions
