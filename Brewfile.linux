@@ -20,6 +20,7 @@ brew groff
 brew jasper
 brew jbig2dec
 brew jpeg
+brew keychain
 brew libdrm
 brew libedit
 brew libevent
