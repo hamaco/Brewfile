@@ -53,6 +53,7 @@ brew ninja
 brew openjpeg
 brew perl
 brew psutils
+brew pv
 brew python@3.10
 brew ruby
 brew six
