@@ -82,6 +82,7 @@ brew libvterm
 brew libx11
 brew libxau
 brew libxcb
+brew libxcrypt
 brew libxdamage
 brew libxdmcp
 brew libxext
