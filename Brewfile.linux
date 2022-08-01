@@ -53,6 +53,7 @@ brew jasper
 brew jbig2dec
 brew jemalloc
 brew jpeg
+brew jpeg-turbo
 brew jq
 brew keychain
 brew krb5
@@ -103,8 +104,10 @@ brew little-cms2
 brew llvm
 brew lm-sensors
 brew lua
+brew luajit
 brew luajit-openresty
 brew luv
+brew lz4
 brew lzo
 brew m4
 brew mesa
