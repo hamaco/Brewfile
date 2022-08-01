@@ -137,6 +137,7 @@ brew ripgrep
 brew rtmpdump
 brew ruby
 brew rust
+brew sheldon
 brew six
 brew starship
 brew tig
