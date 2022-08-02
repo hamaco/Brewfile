@@ -18,6 +18,7 @@ brew ca-certificates
 brew cairo
 brew coreutils
 brew curl
+brew dasel
 brew dbus
 brew deno
 brew diff-so-fancy
