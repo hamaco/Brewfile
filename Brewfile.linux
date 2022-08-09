@@ -2,12 +2,14 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew alsa-lib
 brew asdf
 brew attr
 brew autoconf
 brew automake
 brew awscli
 brew bat
+brew bdw-gc
 brew berkeley-db
 brew binutils
 brew bison
@@ -17,6 +19,7 @@ brew c-ares
 brew ca-certificates
 brew cairo
 brew coreutils
+brew cups
 brew curl
 brew dasel
 brew dbus
@@ -41,9 +44,12 @@ brew git
 brew git-delta
 brew glib
 brew gmp
+brew gnutls
 brew gobject-introspection
+brew gperf
 brew graphite2
 brew groff
+brew guile
 brew gzip
 brew hadolint
 brew harfbuzz
@@ -64,6 +70,7 @@ brew libev
 brew libevent
 brew libffi
 brew libgit2
+brew libice
 brew libidn
 brew libidn2
 brew libmpc
@@ -72,7 +79,9 @@ brew libnsl
 brew libpciaccess
 brew libpng
 brew libpthread-stubs
+brew libsm
 brew libssh2
+brew libtasn1
 brew libtermkey
 brew libtiff
 brew libtirpc
@@ -96,6 +105,8 @@ brew libxml2
 brew libxrandr
 brew libxrender
 brew libxshmfence
+brew libxt
+brew libxtst
 brew libxv
 brew libxvmc
 brew libxxf86vm
@@ -120,12 +131,15 @@ brew msgpack
 brew ncurses
 brew neovim
 brew netpbm
+brew nettle
 brew nghttp2
 brew ninja
 brew node
 brew oniguruma
+brew openjdk@11
 brew openjpeg
 brew openldap
+brew p11-kit
 brew pcre
 brew pcre2
 brew perl
@@ -147,6 +161,7 @@ brew tmuxinator
 brew tree-sitter
 brew ttfautohint
 brew uchardet
+brew unbound
 brew unibilium
 brew unixodbc
 brew unzip
@@ -157,6 +172,7 @@ brew wayland-protocols
 brew xinput
 brew xorgproto
 brew yq
+brew zip
 brew zlib
 brew zstd
 
