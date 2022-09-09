@@ -183,6 +183,8 @@ brew aqua
 
 tap itchyny/tap
 
+tap jimon-s/awsmfa
+
 tap rcmdnk/file
 
 tap symfony-cli/tap
