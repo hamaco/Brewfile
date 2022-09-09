@@ -46,6 +46,7 @@ brew git-delta
 brew glib
 brew gmp
 brew gnutls
+brew go
 brew gobject-introspection
 brew gperf
 brew graphite2
