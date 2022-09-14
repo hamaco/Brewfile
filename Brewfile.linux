@@ -43,6 +43,7 @@ brew ghostscript
 brew ghq
 brew git
 brew git-delta
+brew git-lfs
 brew glib
 brew gmp
 brew gnutls
