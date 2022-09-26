@@ -26,6 +26,7 @@ brew dasel
 brew dbus
 brew deno
 brew diff-so-fancy
+brew difftastic
 brew dog
 brew dotenv-linter --HEAD
 brew elfutils
