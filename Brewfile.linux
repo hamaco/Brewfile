@@ -40,12 +40,15 @@ brew freetype
 brew fzf
 brew gcc
 brew gettext
+brew gh
 brew ghostscript
 brew ghq
 brew git
 brew git-delta
 brew git-lfs
 brew glib
+brew glibc
+brew glslang
 brew gmp
 brew gnutls
 brew go
@@ -70,6 +73,7 @@ brew keychain
 brew krb5
 brew libdrm
 brew libedit
+brew libelf
 brew libev
 brew libevent
 brew libffi
@@ -77,6 +81,7 @@ brew libgit2
 brew libice
 brew libidn
 brew libidn2
+brew libmetalink
 brew libmpc
 brew libnghttp2
 brew libnsl
@@ -115,7 +120,7 @@ brew libxv
 brew libxvmc
 brew libxxf86vm
 brew libyaml
-brew linux-headers@4.4
+brew linux-headers@5.15
 brew little-cms2
 brew llvm
 brew lm-sensors
@@ -144,6 +149,7 @@ brew openjdk@11
 brew openjpeg
 brew openldap
 brew p11-kit
+brew patchelf
 brew pcre
 brew pcre2
 brew perl
@@ -152,6 +158,7 @@ brew pkg-config
 brew psutils
 brew pv
 brew python@3.10
+brew q
 brew ripgrep
 brew rtmpdump
 brew ruby
@@ -177,6 +184,7 @@ brew wayland-protocols
 brew xinput
 brew xorgproto
 brew yq
+brew z3
 brew zip
 brew zlib
 brew zstd
@@ -187,6 +195,10 @@ brew aqua
 tap itchyny/tap
 
 tap jimon-s/awsmfa
+
+tap noborus/tap
+brew ov
+brew ovcs
 
 tap rcmdnk/file
 
