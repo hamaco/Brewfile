@@ -34,6 +34,7 @@ brew exa
 brew expat
 brew fd
 brew flex
+brew flyctl
 brew fontconfig
 brew freeglut
 brew freetype
