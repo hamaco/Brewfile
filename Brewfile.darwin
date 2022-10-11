@@ -10,9 +10,14 @@ brew asdf
 brew aspell
 brew autoconf
 brew automake
+brew awscli
 brew bash
+brew bdw-gc
 brew binutils
 brew bison
+brew bit-git
+brew bluetoothconnector
+brew boost
 brew brotli
 brew bzip2
 brew c-ares
@@ -20,11 +25,21 @@ brew ca-certificates
 brew cairo
 brew coreutils
 brew curl
+brew dasel
 brew deno
 brew docbook
 brew docbook-xsl
+brew dog
 brew dotenv-linter --HEAD
+brew double-conversion
+brew edencommon
 brew expat
+brew fb303
+brew fbthrift
+brew fizz
+brew flyctl
+brew fmt
+brew folly
 brew fontconfig
 brew freetds
 brew freetype
@@ -33,38 +48,56 @@ brew gawk
 brew gcc
 brew gd
 brew gettext
+brew gflags
 brew ghostscript
 brew ghq
 brew giflib
 brew git
 brew glib
+brew glog
+brew gmime
 brew gmp
 brew gnu-getopt
+brew gnupg
+brew gnutls
+brew go
 brew gobject-introspection
+brew gpgme
+brew gradle
 brew graphite2
+brew guile
+brew gum
 brew harfbuzz
+brew highway
 brew httpie
 brew icu4c
 brew imagemagick
 brew imath
 brew isl
+brew jasper
 brew jbig2dec
 brew jemalloc
 brew jpeg
+brew jpeg-turbo
 brew jpeg-xl
-brew jq
 brew keychain
 brew krb5
+brew libassuan
 brew libavif
+brew libcbor
 brew libde265
 brew libedit
 brew libev
 brew libevent
 brew libffi
+brew libfido2
+brew libgcrypt
+brew libgpg-error
 brew libheif
 brew libiconv
 brew libidn
 brew libidn2
+brew libksba
 brew liblqr
 brew libmpc
 brew libnghttp2
@@ -72,14 +105,18 @@ brew libomp
 brew libpng
 brew libpq
 brew libpthread-stubs
+brew libraw
 brew libsodium
 brew libssh2
+brew libtasn1
 brew libtermkey
 brew libtiff
 brew libtool
 brew libunistring
+brew libusb
 brew libuv
 brew libvmaf
+brew libvterm
 brew libx11
 brew libxau
 brew libxcb
@@ -90,6 +127,10 @@ brew libxrender
 brew libyaml
 brew libzip
 brew little-cms2
+brew llvm
+brew lmdb
+brew lua
+brew luajit
 brew luajit-openresty
 brew luv
 brew lz4
@@ -99,43 +140,71 @@ brew mas
 brew mmv
 brew mpfr
 brew msgpack
+brew mysql-client
 brew ncurses
+brew neomutt
 brew neovim
+brew nettle
+brew node
+brew notmuch
+brew npth
 brew oniguruma
 brew openexr
+brew openfortivpn
+brew openjdk
+brew openjdk@11
+brew openjdk@17
 brew openjpeg
 brew openldap
+brew p11-kit
 brew pcre
 brew pcre2
 brew php
 brew php@7.4
+brew php@8.0
+brew pinentry
 brew pixman
 brew pkg-config
+brew pv
 brew python@3.10
+brew q
 brew re2c
+brew reattach-to-user-namespace
+brew ripgrep
 brew rtmpdump
 brew ruby
 brew rust
 brew shared-mime-info
+brew sheldon
+brew six
+brew snappy
 brew subversion
+brew talloc
 brew telnet
 brew tidy-html5
 brew tig
 brew tmux
 brew tmuxinator
+brew tokyo-cabinet
 brew tree
 brew tree-sitter
+brew unbound
 brew unibilium
 brew unixodbc
 brew utf8proc
+brew wangle
+brew watchman
 brew webp
 brew wget
 brew x265
+brew xapian
 brew xmlto
 brew xorgproto
 brew yq
+brew z3
 brew zlib
 brew zplug
+brew zsh
 brew zstd
 
 tap homebrew/cask-fonts
@@ -161,16 +230,20 @@ cask adobe-creative-cloud
 cask alacritty
 cask alfred
 cask alt-tab
+cask android-studio
 cask appcleaner
 cask aquaskk
 cask brave-browser
 cask charles
 cask clickup
+cask clipy
 cask coteditor
+cask daisydisk
 cask discord
 cask docker
 cask dropbox
 cask duet
+cask firefox
 cask google-chrome
 cask gyazo
 cask hyperswitch
@@ -189,6 +262,7 @@ cask little-snitch
 cask maccy
 cask macvim
 cask mysqlworkbench
+cask netspot
 cask notion
 cask obsidian
 cask ogdesign-eagle
@@ -198,17 +272,17 @@ cask pdf-expert
 cask popsql
 cask postico
 cask postman
-cask qgis
+cask proxyman
 cask quail
 cask raycast
 cask rectangle
 cask scroll-reverser
+cask session-manager-plugin
 cask setapp
 cask sketch
 cask skitch
 cask skype
 cask slack
-cask slate
 cask stats
 cask steam
 cask teensy
@@ -224,15 +298,24 @@ cask typora
 cask visual-studio-code
 cask vivaldi
 cask vlc
+cask wifi-explorer
 cask wkhtmltopdf
 cask zoom
 
 tap aquaproj/aqua
 brew aqua
 
+tap charmbracelet/tap
+
 tap itchyny/tap
 
+tap jimon-s/awsmfa
+brew awsmfa
+
 tap rcmdnk/file
+
+tap symfony-cli/tap
+brew symfony-cli
 
 tap uzimaru0000/tap
 brew tv
@@ -246,16 +329,20 @@ brew tv
 #cask alacritty
 #cask alfred
 #cask alt-tab
+#cask android-studio
 #cask appcleaner
 #cask aquaskk
 #cask brave-browser
 #cask charles
 #cask clickup
+#cask clipy
 #cask coteditor
+#cask daisydisk
 #cask discord
 #cask docker
 #cask dropbox
 #cask duet
+#cask firefox
 #cask font-azeret-mono
 #cask font-cascadia-code
 #cask font-cica
@@ -284,6 +371,7 @@ brew tv
 #cask maccy
 #cask macvim
 #cask mysqlworkbench
+#cask netspot
 #cask notion
 #cask obsidian
 #cask ogdesign-eagle
@@ -293,17 +381,17 @@ brew tv
 #cask popsql
 #cask postico
 #cask postman
-#cask qgis
+#cask proxyman
 #cask quail
 #cask raycast
 #cask rectangle
 #cask scroll-reverser
+#cask session-manager-plugin
 #cask setapp
 #cask sketch
 #cask skitch
 #cask skype
 #cask slack
-#cask slate
 #cask stats
 #cask steam
 #cask teensy
@@ -319,18 +407,21 @@ brew tv
 #cask visual-studio-code
 #cask vivaldi
 #cask vlc
+#cask wifi-explorer
 #cask wkhtmltopdf
 #cask zoom
 
 # App Store applications
-appstore 1540325366  Doneit      (2.0.5)
-appstore 1187652334  Fuwari      (0.6.0)
+appstore 1540325366  Doneit      (2.2.1)
+appstore 1187652334  Fuwari      (1.0.0)
 appstore 682658836   GarageBand  (10.4.6)
-appstore 408981434   iMovie      (10.3.1)
-appstore 409183694   Keynote     (11.2)
-appstore 539883307   LINE        (7.7.0)
-appstore 1532419400  MeetingBar  (3.10.1)
-appstore 409203825   Numbers     (11.2)
-appstore 409201541   Pages       (11.2)
-appstore 1425368544  Timery      (1.3.4)
+appstore 408981434   iMovie      (10.3.4)
+appstore 409183694   Keynote     (12.1)
+appstore 539883307   LINE        (7.12.1)
+appstore 1532419400  MeetingBar  (4.0.6)
+appstore 409201541   Pages       (12.1)
+appstore 1425368544  Timery      (1.4.1)
 appstore 1227057295  TweetShot   (4.9.1)
+
+# Other commands
+eppstore 409203825   Numbers     (12.1)
