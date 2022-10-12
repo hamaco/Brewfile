@@ -156,6 +156,7 @@ brew openjdk@11
 brew openjdk@17
 brew openjpeg
 brew openldap
+brew openssl@3
 brew p11-kit
 brew pcre
 brew pcre2
@@ -408,12 +409,13 @@ brew tv
 #cask zoom
 
 # App Store applications
-appstore 1540325366  Doneit      (2.2.1)
-appstore 1187652334  Fuwari      (1.0.0)
-appstore 409183694   Keynote     (12.1)
-appstore 539883307   LINE        (7.12.1)
-appstore 1532419400  MeetingBar  (4.0.6)
-appstore 409203825   Numbers     (12.1)
-appstore 409201541   Pages       (12.1)
-appstore 1425368544  Timery      (1.4.1)
-appstore 1227057295  TweetShot   (4.9.1)
+appstore 1540325366  Doneit       (2.2.1)
+appstore 1187652334  Fuwari       (1.0.0)
+appstore 409183694   Keynote      (12.1)
+appstore 539883307   LINE         (7.12.1)
+appstore 1532419400  MeetingBar   (4.0.6)
+appstore 409203825   Numbers      (12.1)
+appstore 409201541   Pages        (12.1)
+appstore 1425368544  Timery       (1.4.1)
+appstore 1291898086  Toggl Track  (8.2.0)
+appstore 1227057295  TweetShot    (4.9.1)
