@@ -289,7 +289,6 @@ cask the-unarchiver
 cask thunderbird
 cask ticktick
 cask todoist
-cask toggl-track
 cask trailer
 cask tunnelblick
 cask tweeten
@@ -397,7 +396,6 @@ brew tv
 #cask thunderbird
 #cask ticktick
 #cask todoist
-#cask toggl-track
 #cask trailer
 #cask tunnelblick
 #cask tweeten
