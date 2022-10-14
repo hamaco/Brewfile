@@ -278,6 +278,7 @@ cask quail
 cask raycast
 cask rectangle
 cask scroll-reverser
+cask session-manager-plugin
 cask setapp
 cask sketch
 cask skitch
@@ -384,6 +385,7 @@ brew tv
 #cask raycast
 #cask rectangle
 #cask scroll-reverser
+#cask session-manager-plugin
 #cask setapp
 #cask sketch
 #cask skitch
