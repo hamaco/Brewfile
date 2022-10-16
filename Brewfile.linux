@@ -57,6 +57,7 @@ brew gobject-introspection
 brew gperf
 brew graphite2
 brew groff
+brew gron
 brew guile
 brew gzip
 brew hadolint
@@ -121,6 +122,7 @@ brew libxv
 brew libxvmc
 brew libxxf86vm
 brew libyaml
+brew linux-headers@4.4
 brew linux-headers@5.15
 brew little-cms2
 brew llvm
