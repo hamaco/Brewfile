@@ -170,6 +170,7 @@ brew sheldon
 brew six
 brew starship
 brew swig
+brew terraform
 brew tig
 brew tmux
 brew tmuxinator
