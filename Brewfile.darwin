@@ -137,7 +137,6 @@ brew lz4
 brew lzo
 brew m4
 brew mas
-brew mmv
 brew mpfr
 brew msgpack
 brew mysql-client
@@ -307,6 +306,7 @@ brew aqua
 tap charmbracelet/tap
 
 tap itchyny/tap
+brew mmv
 
 tap jimon-s/awsmfa
 brew awsmfa
