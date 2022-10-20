@@ -206,6 +206,9 @@ brew ovcs
 
 tap rcmdnk/file
 
+tap suin/suin
+brew git-remind
+
 tap symfony-cli/tap
 brew symfony-cli
 
