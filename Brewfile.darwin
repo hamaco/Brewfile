@@ -137,6 +137,7 @@ brew lz4
 brew lzo
 brew m4
 brew mas
+brew mmv
 brew mpfr
 brew msgpack
 brew mysql-client
@@ -192,6 +193,7 @@ brew unbound
 brew unibilium
 brew unixodbc
 brew utf8proc
+brew viddy
 brew wangle
 brew watchman
 brew webp
@@ -306,7 +308,6 @@ brew aqua
 tap charmbracelet/tap
 
 tap itchyny/tap
-brew mmv
 
 tap jimon-s/awsmfa
 brew awsmfa
