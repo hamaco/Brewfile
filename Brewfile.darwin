@@ -247,6 +247,7 @@ cask discord
 cask docker
 cask dropbox
 cask duet
+cask espanso
 cask firefox
 cask google-chrome
 cask gyazo
@@ -344,6 +345,7 @@ brew tv
 #cask docker
 #cask dropbox
 #cask duet
+#cask espanso
 #cask firefox
 #cask font-azeret-mono
 #cask font-cascadia-code
