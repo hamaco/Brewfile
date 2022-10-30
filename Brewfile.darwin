@@ -179,6 +179,7 @@ brew shared-mime-info
 brew sheldon
 brew six
 brew snappy
+brew sslscan
 brew subversion
 brew talloc
 brew telnet
