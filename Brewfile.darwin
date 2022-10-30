@@ -141,6 +141,7 @@ brew mmv
 brew mpfr
 brew msgpack
 brew mysql-client
+brew navi
 brew ncurses
 brew neomutt
 brew neovim
