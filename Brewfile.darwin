@@ -266,6 +266,7 @@ cask linear-linear
 cask little-snitch
 cask maccy
 cask macvim
+cask moom
 cask mysqlworkbench
 cask netspot
 cask notion
@@ -374,6 +375,7 @@ brew tv
 #cask little-snitch
 #cask maccy
 #cask macvim
+#cask moom
 #cask mysqlworkbench
 #cask netspot
 #cask notion
