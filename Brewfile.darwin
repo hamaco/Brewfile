@@ -196,6 +196,7 @@ brew unibilium
 brew unixodbc
 brew utf8proc
 brew viddy
+brew volta
 brew wangle
 brew watchman
 brew webp
