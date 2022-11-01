@@ -183,6 +183,7 @@ brew unixodbc
 brew unzip
 brew util-linux
 brew vim
+brew volta
 brew wayland
 brew wayland-protocols
 brew xinput
