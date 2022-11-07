@@ -181,6 +181,7 @@ brew unibilium
 brew unixodbc
 brew unzip
 brew util-linux
+brew viddy
 brew vim
 brew volta
 brew wayland
