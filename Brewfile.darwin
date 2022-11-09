@@ -65,6 +65,7 @@ brew gobject-introspection
 brew gpgme
 brew gradle
 brew graphite2
+brew groff
 brew guile
 brew gum
 brew harfbuzz
@@ -145,6 +146,7 @@ brew navi
 brew ncurses
 brew neomutt
 brew neovim
+brew netpbm
 brew nettle
 brew notmuch
 brew npth
@@ -166,6 +168,7 @@ brew php@8.0
 brew pinentry
 brew pixman
 brew pkg-config
+brew psutils
 brew pv
 brew python@3.10
 brew q
@@ -190,6 +193,7 @@ brew tmuxinator
 brew tokyo-cabinet
 brew tree
 brew tree-sitter
+brew uchardet
 brew unbound
 brew unibilium
 brew unixodbc
