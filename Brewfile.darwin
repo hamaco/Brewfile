@@ -293,6 +293,7 @@ cask sketch
 cask skitch
 cask skype
 cask slack
+cask slack-cli
 cask stats
 cask steam
 cask the-unarchiver
@@ -402,6 +403,7 @@ brew tv
 #cask skitch
 #cask skype
 #cask slack
+#cask slack-cli
 #cask stats
 #cask steam
 #cask the-unarchiver
