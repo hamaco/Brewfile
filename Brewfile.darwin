@@ -186,6 +186,7 @@ brew sslscan
 brew subversion
 brew talloc
 brew telnet
+brew terraform
 brew tidy-html5
 brew tig
 brew tmux
