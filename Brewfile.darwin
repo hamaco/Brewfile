@@ -29,6 +29,7 @@ brew dasel
 brew deno
 brew docbook
 brew docbook-xsl
+brew docutils
 brew dog
 brew dotenv-linter --HEAD
 brew double-conversion
@@ -75,6 +76,7 @@ brew icu4c
 brew imagemagick
 brew imath
 brew isl
+brew jasper
 brew jbig2dec
 brew jemalloc
 brew jpeg
@@ -274,6 +276,7 @@ cask macvim
 cask moom
 cask mysqlworkbench
 cask netspot
+cask ngrok
 cask notion
 cask obsidian
 cask ogdesign-eagle
@@ -384,6 +387,7 @@ brew tv
 #cask moom
 #cask mysqlworkbench
 #cask netspot
+#cask ngrok
 #cask notion
 #cask obsidian
 #cask ogdesign-eagle
@@ -427,9 +431,9 @@ appstore 1540325366  Doneit       (2.3.2)
 appstore 1187652334  Fuwari       (1.0.0)
 appstore 409183694   Keynote      (12.2)
 appstore 539883307   LINE         (7.13.2)
-appstore 1532419400  MeetingBar   (4.2.1)
+appstore 1532419400  MeetingBar   (4.2.2)
 appstore 409203825   Numbers      (12.2)
 appstore 409201541   Pages        (12.2)
 appstore 1425368544  Timery       (1.5)
-appstore 1291898086  Toggl Track  (8.3.1)
+appstore 1291898086  Toggl Track  (8.4.0)
 appstore 1227057295  TweetShot    (4.9.1)
