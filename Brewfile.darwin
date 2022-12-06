@@ -256,6 +256,7 @@ cask docker
 cask dropbox
 cask duet
 cask firefox
+cask gather
 cask google-chrome
 cask gyazo
 cask hyperswitch
@@ -367,6 +368,7 @@ brew tv
 #cask font-plemol-jp-nf
 #cask font-space-mono
 #cask font-zen-maru-gothic
+#cask gather
 #cask google-chrome
 #cask gyazo
 #cask hyperswitch
@@ -427,7 +429,7 @@ brew tv
 #cask zoom
 
 # App Store applications
-appstore 1540325366  Doneit       (2.3.2)
+appstore 1540325366  Doneit       (2.3.3)
 appstore 1187652334  Fuwari       (1.0.0)
 appstore 409183694   Keynote      (12.2.1)
 appstore 539883307   LINE         (7.13.2)
