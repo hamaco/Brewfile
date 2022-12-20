@@ -11,6 +11,7 @@ brew awscli
 brew bat
 brew bdw-gc
 brew berkeley-db
+brew berkeley-db@5
 brew binutils
 brew bison
 brew brotli
@@ -27,6 +28,7 @@ brew dbus
 brew deno
 brew diff-so-fancy
 brew difftastic
+brew docutils
 brew dog
 brew dotenv-linter --HEAD
 brew elfutils
@@ -44,6 +46,7 @@ brew gettext
 brew gh
 brew ghostscript
 brew ghq
+brew giflib
 brew git
 brew git-delta
 brew git-lfs
@@ -134,6 +137,7 @@ brew luv
 brew lz4
 brew lzo
 brew m4
+brew mandoc
 brew mesa
 brew mesa-glu
 brew meson
@@ -150,6 +154,7 @@ brew oniguruma
 brew openjdk@11
 brew openjpeg
 brew openldap
+brew openssl@3
 brew p11-kit
 brew patchelf
 brew pcre
@@ -160,6 +165,7 @@ brew pkg-config
 brew psutils
 brew pv
 brew python@3.10
+brew python@3.11
 brew q
 brew ripgrep
 brew rtmpdump
@@ -197,6 +203,9 @@ brew zstd
 tap aquaproj/aqua
 brew aqua
 
+tap dart-lang/dart
+brew dart
+
 tap itchyny/tap
 
 tap jimon-s/awsmfa
@@ -206,6 +215,9 @@ brew ov
 brew ovcs
 
 tap rcmdnk/file
+
+tap sass/sass
+brew sass
 
 tap suin/suin
 brew git-remind
