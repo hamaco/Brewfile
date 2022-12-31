@@ -429,13 +429,14 @@ brew tv
 #cask zoom
 
 # App Store applications
-appstore 1540325366  Doneit       (2.3.3)
+appstore 1540325366  Doneit       (2.4)
 appstore 1187652334  Fuwari       (1.0.0)
 appstore 409183694   Keynote      (12.2.1)
 appstore 539883307   LINE         (7.14.1)
 appstore 1532419400  MeetingBar   (4.2.2)
 appstore 409203825   Numbers      (12.2.1)
 appstore 409201541   Pages        (12.2.1)
-appstore 1425368544  Timery       (1.5)
+appstore 1425368544  Timery       (1.5.1)
 appstore 1291898086  Toggl Track  (8.5.0)
-appstore 1227057295  TweetShot    (4.9.1)
+appstore 1227057295  TweetShot    (5.2)
+appstore 497799835   Xcode        (14.2)
