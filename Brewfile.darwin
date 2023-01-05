@@ -149,6 +149,7 @@ brew neomutt
 brew neovim
 brew netpbm
 brew nettle
+brew nkf
 brew notmuch
 brew npth
 brew oniguruma
