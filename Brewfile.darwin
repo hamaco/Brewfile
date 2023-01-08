@@ -63,6 +63,7 @@ brew gnupg
 brew gnutls
 brew go
 brew gobject-introspection
+brew gotop
 brew gpgme
 brew gradle
 brew graphite2
@@ -175,6 +176,7 @@ brew pv
 brew python@3.10
 brew python@3.11
 brew q
+brew ranger
 brew re2c
 brew reattach-to-user-namespace
 brew ripgrep
