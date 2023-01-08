@@ -329,6 +329,9 @@ tap itchyny/tap
 tap jimon-s/awsmfa
 brew awsmfa
 
+tap koekeishiya/formulae
+brew yabai
+
 tap rcmdnk/file
 
 tap symfony-cli/tap
