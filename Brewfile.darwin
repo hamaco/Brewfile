@@ -77,7 +77,6 @@ brew icu4c
 brew imagemagick
 brew imath
 brew isl
-brew jasper
 brew jbig2dec
 brew jemalloc
 brew jpeg
