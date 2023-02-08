@@ -229,6 +229,7 @@ cask font-fira-code
 cask font-fontawesome
 cask font-hackgen
 cask font-input
+cask font-martian-mono
 cask font-murecho
 cask font-plemol-jp-nf
 cask font-space-mono
@@ -372,6 +373,7 @@ brew tv
 #cask font-fontawesome
 #cask font-hackgen
 #cask font-input
+#cask font-martian-mono
 #cask font-murecho
 #cask font-plemol-jp-nf
 #cask font-space-mono
@@ -446,6 +448,6 @@ appstore 1532419400  MeetingBar   (4.2.2)
 appstore 409203825   Numbers      (12.2.1)
 appstore 409201541   Pages        (12.2.1)
 appstore 1425368544  Timery       (1.5.1)
-appstore 1291898086  Toggl Track  (8.6.0)
+appstore 1291898086  Toggl Track  (8.7.0)
 appstore 1227057295  TweetShot    (5.4)
 appstore 497799835   Xcode        (14.2)
