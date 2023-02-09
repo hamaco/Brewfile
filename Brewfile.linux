@@ -25,7 +25,6 @@ brew cups
 brew curl
 brew dasel
 brew dbus
-brew deno
 brew diff-so-fancy
 brew difftastic
 brew docutils
