@@ -150,6 +150,7 @@ brew netpbm
 brew nettle
 brew nghttp2
 brew ninja
+brew nkf
 brew oniguruma
 brew openjdk@11
 brew openjpeg
