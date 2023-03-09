@@ -26,6 +26,10 @@ brew aqua
 tap charmbracelet/tap
 brew gum
 
+## Direct install
+brew dotenv-linter --HEAD
+brew libraw
+
 tap itchyny/tap
 brew mmv
 
@@ -74,7 +78,6 @@ brew docbook
 brew docbook-xsl
 brew docutils
 brew dog
-brew dotenv-linter --HEAD
 brew double-conversion
 brew edencommon
 brew expat
@@ -119,6 +122,7 @@ brew icu4c
 brew imagemagick
 brew imath
 brew isl
+brew jasper
 brew jbig2dec
 brew jemalloc
 brew jpeg
@@ -149,7 +153,6 @@ brew libomp
 brew libpng
 brew libpq
 brew libpthread-stubs
-brew libraw
 brew libsodium
 brew libssh2
 brew libtasn1
@@ -273,6 +276,7 @@ cask appcleaner
 cask aquaskk
 cask brave-browser
 cask charles
+cask choosy
 cask clickup
 cask clipy
 cask coteditor
@@ -357,6 +361,7 @@ cask zoom
 #cask aquaskk
 #cask brave-browser
 #cask charles
+#cask choosy
 #cask clickup
 #cask clipy
 #cask coteditor
@@ -440,7 +445,7 @@ cask zoom
 #cask zoom
 
 # App Store applications
-appstore 1540325366  Doneit       (2.4.3)
+appstore 1540325366  Doneit       (2.4.5)
 appstore 1187652334  Fuwari       (1.0.0)
 appstore 409183694   Keynote      (12.2.1)
 appstore 539883307   LINE         (7.15.0)
@@ -448,6 +453,6 @@ appstore 1532419400  MeetingBar   (4.2.2)
 appstore 409203825   Numbers      (12.2.1)
 appstore 409201541   Pages        (12.2.1)
 appstore 1425368544  Timery       (1.5.1)
-appstore 1291898086  Toggl Track  (8.7.0)
+appstore 1291898086  Toggl Track  (8.9.0)
 appstore 1227057295  TweetShot    (5.4)
 appstore 497799835   Xcode        (14.2)
