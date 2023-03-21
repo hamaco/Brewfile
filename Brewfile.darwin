@@ -322,6 +322,7 @@ cask proxyman
 cask quail
 cask raycast
 cask rectangle
+cask reflect
 cask scroll-reverser
 cask session-manager-plugin
 cask setapp
@@ -419,6 +420,7 @@ cask zoom
 #cask quail
 #cask raycast
 #cask rectangle
+#cask reflect
 #cask scroll-reverser
 #cask session-manager-plugin
 #cask setapp
@@ -448,11 +450,11 @@ cask zoom
 appstore 1540325366  Doneit       (2.4.5)
 appstore 1187652334  Fuwari       (1.0.0)
 appstore 409183694   Keynote      (12.2.1)
-appstore 539883307   LINE         (7.15.0)
-appstore 1532419400  MeetingBar   (4.2.2)
+appstore 539883307   LINE         (7.16.1)
+appstore 1532419400  MeetingBar   (4.4.0)
 appstore 409203825   Numbers      (12.2.1)
 appstore 409201541   Pages        (12.2.1)
-appstore 1425368544  Timery       (1.5.1)
+appstore 1425368544  Timery       (1.5.2)
 appstore 1291898086  Toggl Track  (8.9.0)
 appstore 1227057295  TweetShot    (5.4)
 appstore 497799835   Xcode        (14.2)
