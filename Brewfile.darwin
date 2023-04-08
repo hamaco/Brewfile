@@ -288,6 +288,7 @@ cask duet
 cask firefox
 cask gather
 cask google-chrome
+cask google-drive
 cask gyazo
 cask hyperswitch
 cask iina
@@ -386,6 +387,7 @@ cask zoom
 #cask font-zen-maru-gothic
 #cask gather
 #cask google-chrome
+#cask google-drive
 #cask gyazo
 #cask hyperswitch
 #cask iina
