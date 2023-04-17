@@ -177,6 +177,7 @@ brew six
 brew smartmontools
 brew starship
 brew swig
+brew tbls
 brew terraform
 brew tig
 brew tmux
@@ -211,6 +212,8 @@ brew dart
 tap itchyny/tap
 
 tap jimon-s/awsmfa
+
+tap k1low/tap
 
 tap noborus/tap
 brew ov
