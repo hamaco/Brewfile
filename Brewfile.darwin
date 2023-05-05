@@ -1,54 +1,7 @@
 
 # tap repositories and their packages
 
-tap homebrew/cask-fonts
-cask font-azeret-mono
-cask font-cascadia-code
-cask font-cica
-cask font-fira-code
-cask font-fontawesome
-cask font-hackgen
-cask font-input
-cask font-martian-mono
-cask font-murecho
-cask font-plemol-jp-nf
-cask font-space-mono
-cask font-zen-maru-gothic
-
-tap homebrew/cask-versions
-cask 1password-beta
-
-tap homebrew/services
-
-tap aquaproj/aqua
-brew aqua
-
-tap charmbracelet/tap
-brew gum
-
-## Direct install
-brew dotenv-linter --HEAD
-brew libraw
-
-tap itchyny/tap
-brew mmv
-
-tap jimon-s/awsmfa
-brew awsmfa
-
-tap koekeishiya/formulae
-brew skhd
-brew yabai
-
-# tap rcmdnk/file
-
-tap symfony-cli/tap
-brew symfony-cli
-
-tap uzimaru0000/tap
-brew tv
-
-# Other Homebrew packages
+tap homebrew/core
 brew aom
 brew apr
 brew apr-util
@@ -78,6 +31,7 @@ brew docbook
 brew docbook-xsl
 brew docutils
 brew dog
+brew dotenv-linter --HEAD
 brew double-conversion
 brew edencommon
 brew expat
@@ -115,6 +69,7 @@ brew gradle
 brew graphite2
 brew groff
 brew guile
+brew gum
 brew harfbuzz
 brew highway
 brew httpie
@@ -153,6 +108,7 @@ brew libomp
 brew libpng
 brew libpq
 brew libpthread-stubs
+brew libraw
 brew libsodium
 brew libssh2
 brew libtasn1
@@ -184,6 +140,7 @@ brew lz4
 brew lzo
 brew m4
 brew mas
+brew mmv
 brew mpfr
 brew msgpack
 brew mysql-client
@@ -265,7 +222,7 @@ brew zplug
 brew zsh
 brew zstd
 
-# Other Cask applications
+tap homebrew/cask
 cask 1password-cli
 cask adobe-creative-cloud
 cask alacritty
@@ -290,7 +247,6 @@ cask gather
 cask google-chrome
 cask google-drive
 cask gyazo
-cask hyperswitch
 cask iina
 cask inkscape
 cask insomnia
@@ -340,7 +296,6 @@ cask ticktick
 cask todoist
 cask trailer
 cask tunnelblick
-cask tweeten
 cask typora
 cask visual-studio-code
 cask vivaldi
@@ -349,114 +304,60 @@ cask wifi-explorer
 cask wkhtmltopdf
 cask zoom
 
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
+tap homebrew/cask-fonts
+cask font-azeret-mono
+cask font-cascadia-code
+cask font-cica
+cask font-fira-code
+cask font-fontawesome
+cask font-hackgen
+cask font-input
+cask font-martian-mono
+cask font-murecho
+cask font-plemol-jp-nf
+cask font-space-mono
+cask font-zen-maru-gothic
 
-#cask 1password-beta
-#cask 1password-cli
-#cask adobe-creative-cloud
-#cask alacritty
-#cask alfred
-#cask alt-tab
-#cask android-studio
-#cask appcleaner
-#cask aquaskk
-#cask brave-browser
-#cask charles
-#cask choosy
-#cask clickup
-#cask clipy
-#cask coteditor
-#cask daisydisk
-#cask discord
-#cask docker
-#cask dropbox
-#cask duet
-#cask firefox
-#cask font-azeret-mono
-#cask font-cascadia-code
-#cask font-cica
-#cask font-fira-code
-#cask font-fontawesome
-#cask font-hackgen
-#cask font-input
-#cask font-martian-mono
-#cask font-murecho
-#cask font-plemol-jp-nf
-#cask font-space-mono
-#cask font-zen-maru-gothic
-#cask gather
-#cask google-chrome
-#cask google-drive
-#cask gyazo
-#cask hyperswitch
-#cask iina
-#cask inkscape
-#cask insomnia
-#cask iterm2
-#cask jasper
-#cask jetbrains-toolbox
-#cask kap
-#cask karabiner-elements
-#cask keepingyouawake
-#cask kitty
-#cask linear-linear
-#cask little-snitch
-#cask maccy
-#cask macvim
-#cask microsoft-teams
-#cask moom
-#cask mysqlworkbench
-#cask netspot
-#cask ngrok
-#cask notion
-#cask obsidian
-#cask ogdesign-eagle
-#cask omnifocus
-#cask omnigraffle
-#cask pdf-expert
-#cask popsql
-#cask postico
-#cask postman
-#cask proxyman
-#cask quail
-#cask raycast
-#cask rectangle
-#cask reflect
-#cask scroll-reverser
-#cask session-manager-plugin
-#cask setapp
-#cask sketch
-#cask skitch
-#cask skype
-#cask slack
-#cask slack-cli
-#cask stats
-#cask steam
-#cask the-unarchiver
-#cask thunderbird
-#cask ticktick
-#cask todoist
-#cask trailer
-#cask tunnelblick
-#cask tweeten
-#cask typora
-#cask visual-studio-code
-#cask vivaldi
-#cask vlc
-#cask wifi-explorer
-#cask wkhtmltopdf
-#cask zoom
+tap homebrew/cask-versions
+cask 1password-beta
+
+tap homebrew/services
+
+tap aquaproj/aqua
+brew aqua
+
+tap charmbracelet/tap
+
+tap itchyny/tap
+
+tap jimon-s/awsmfa
+brew awsmfa
+
+tap koekeishiya/formulae
+brew skhd
+brew yabai
+
+tap rcmdnk/file
+
+tap symfony-cli/tap
+brew symfony-cli
+
+tap uzimaru0000/tap
+brew tv
+
+# Other Cask applications
+cask hyperswitch
+cask tweeten
 
 # App Store applications
-appstore 1540325366  Doneit       (2.4.5)
-appstore 1187652334  Fuwari       (1.0.0)
-appstore 409183694   Keynote      (12.2.1)
-appstore 539883307   LINE         (7.16.1)
-appstore 1532419400  MeetingBar   (4.4.0)
-appstore 409203825   Numbers      (12.2.1)
-appstore 409201541   Pages        (12.2.1)
-appstore 1425368544  Timery       (1.5.2)
-appstore 1291898086  Toggl Track  (8.9.0)
-appstore 1227057295  TweetShot    (5.4)
-appstore 497799835   Xcode        (14.2)
+appstore 1540325366 Doneit (2.4.7)
+appstore 1187652334 Fuwari (1.0.0)
+appstore 409183694 Keynote (13.0)
+appstore 539883307 LINE (7.17.0)
+appstore 1532419400 MeetingBar (4.4.0)
+appstore 409203825 Numbers (13.0)
+appstore 409201541 Pages (13.0)
+appstore 1425368544 Timery (1.5.2)
+appstore 1291898086 Toggl Track (8.10.3)
+appstore 1227057295 TweetShot (6.1)
+appstore 497799835 Xcode (14.3)
