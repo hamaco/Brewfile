@@ -242,6 +242,7 @@ cask discord
 cask docker
 cask dropbox
 cask duet
+cask finicky
 cask firefox
 cask gather
 cask google-chrome
