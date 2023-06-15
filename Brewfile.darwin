@@ -95,6 +95,7 @@ brew libevent
 brew libffi
 brew libfido2
 brew libgcrypt
+brew libgit2
 brew libgpg-error
 brew libheif
 brew libiconv
@@ -174,6 +175,7 @@ brew pixman
 brew pkg-config
 brew psutils
 brew pv
+brew pygments
 brew python@3.10
 brew python@3.11
 brew q
@@ -342,6 +344,9 @@ brew yabai
 
 tap rcmdnk/file
 
+tap suin/suin
+brew git-remind
+
 tap symfony-cli/tap
 brew symfony-cli
 
@@ -353,14 +358,14 @@ cask hyperswitch
 cask tweeten
 
 # App Store applications
-appstore 1540325366 Doneit (2.4.9)
+appstore 1540325366 Doneit (2.4.10)
 appstore 1187652334 Fuwari (1.0.0)
-appstore 409183694 Keynote (13.0)
+appstore 409183694 Keynote (13.1)
 appstore 539883307 LINE (7.17.0)
 appstore 1532419400 MeetingBar (4.4.0)
-appstore 409203825 Numbers (13.0)
-appstore 409201541 Pages (13.0)
-appstore 1425368544 Timery (1.5.3)
-appstore 1291898086 Toggl Track (8.10.3)
+appstore 409203825 Numbers (13.1)
+appstore 409201541 Pages (13.1)
+appstore 1425368544 Timery (1.5.4)
+appstore 1291898086 Toggl Track (8.11.1)
 appstore 1227057295 TweetShot (6.1)
 appstore 497799835 Xcode (14.3.1)
