@@ -3,7 +3,12 @@
 
 tap homebrew/core
 brew alsa-lib
+brew aom
+brew apr
+brew apr-util
+brew argon2
 brew asdf
+brew aspell
 brew attr
 brew autoconf
 brew automake
@@ -15,6 +20,7 @@ brew berkeley-db@5
 brew binutils
 brew bison
 brew brotli
+brew buf
 brew bzip2
 brew c-ares
 brew ca-certificates
@@ -30,7 +36,6 @@ brew diff-so-fancy
 brew difftastic
 brew docutils
 brew dog
-brew dotenv-linter --HEAD
 brew elfutils
 brew exa
 brew expat
@@ -39,9 +44,11 @@ brew flex
 brew flyctl
 brew fontconfig
 brew freeglut
+brew freetds
 brew freetype
 brew fzf
 brew gcc
+brew gd
 brew gettext
 brew gh
 brew ghostscript
@@ -76,12 +83,15 @@ brew jpeg-turbo
 brew jq
 brew keychain
 brew krb5
+brew libavif
 brew libdrm
 brew libedit
 brew libev
 brew libevent
 brew libffi
+brew libgcrypt
 brew libgit2
+brew libgpg-error
 brew libice
 brew libidn
 brew libidn2
@@ -91,8 +101,10 @@ brew libnghttp2
 brew libnsl
 brew libpciaccess
 brew libpng
+brew libpq
 brew libpthread-stubs
 brew libsm
+brew libsodium
 brew libssh2
 brew libtasn1
 brew libtermkey
@@ -118,16 +130,19 @@ brew libxml2
 brew libxrandr
 brew libxrender
 brew libxshmfence
+brew libxslt
 brew libxt
 brew libxtst
 brew libxv
 brew libxvmc
 brew libxxf86vm
 brew libyaml
+brew libzip
 brew linux-headers@4.4
 brew linux-headers@5.15
 brew little-cms2
 brew llvm
+brew llvm@15
 brew lm-sensors
 brew lua
 brew luajit
@@ -137,6 +152,7 @@ brew lz4
 brew lzo
 brew m4
 brew mandoc
+brew mawk
 brew mesa
 brew mesa-glu
 brew meson
@@ -160,10 +176,13 @@ brew patchelf
 brew pcre
 brew pcre2
 brew perl
+brew php
+brew php@8.1
 brew pixman
 brew pkg-config
 brew psutils
 brew pv
+brew pygments
 brew python@3.10
 brew python@3.11
 brew ripgrep
@@ -177,6 +196,7 @@ brew starship
 brew swig
 brew tbls
 brew terraform
+brew tidy-html5
 brew tig
 brew tmux
 brew tmuxinator
@@ -187,12 +207,14 @@ brew unbound
 brew unibilium
 brew unixodbc
 brew unzip
+brew utf8proc
 brew util-linux
 brew viddy
 brew vim
 brew volta
 brew wayland
 brew wayland-protocols
+brew webp
 brew xinput
 brew xorgproto
 brew yq
@@ -207,15 +229,11 @@ brew aqua
 tap dart-lang/dart
 brew dart
 
-# tap itchyny/tap
-
-# tap jimon-s/awsmfa
-
-# tap k1low/tap
-
 tap noborus/tap
 brew ov
 brew ovcs
+
+tap rcmdnk/file
 
 tap sass/sass
 brew sass
@@ -228,5 +246,3 @@ brew symfony-cli
 
 tap teamookla/speedtest
 brew speedtest
-
-# tap uzimaru0000/tap
