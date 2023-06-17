@@ -1,8 +1,6 @@
 
 # tap repositories and their packages
 
-tap itchyny/tap
-
 tap rcmdnk/file
 brew brew-file
 

@@ -78,7 +78,6 @@ brew keychain
 brew krb5
 brew libdrm
 brew libedit
-brew libelf
 brew libev
 brew libevent
 brew libffi
@@ -167,7 +166,6 @@ brew psutils
 brew pv
 brew python@3.10
 brew python@3.11
-brew q
 brew ripgrep
 brew rtmpdump
 brew ruby
@@ -209,17 +207,15 @@ brew aqua
 tap dart-lang/dart
 brew dart
 
-tap itchyny/tap
+# tap itchyny/tap
 
-tap jimon-s/awsmfa
+# tap jimon-s/awsmfa
 
-tap k1low/tap
+# tap k1low/tap
 
 tap noborus/tap
 brew ov
 brew ovcs
-
-tap rcmdnk/file
 
 tap sass/sass
 brew sass
@@ -233,4 +229,4 @@ brew symfony-cli
 tap teamookla/speedtest
 brew speedtest
 
-tap uzimaru0000/tap
+# tap uzimaru0000/tap
