@@ -109,7 +109,6 @@ brew libomp
 brew libpng
 brew libpq
 brew libpthread-stubs
-brew libraw
 brew libsodium
 brew libssh2
 brew libtasn1
