@@ -106,8 +106,6 @@ brew liblqr
 brew libmpc
 brew libnghttp2
 brew libomp
-brew libpng
-brew libpq
 brew libpthread-stubs
 brew libsodium
 brew libssh2
