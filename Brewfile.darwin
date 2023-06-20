@@ -353,10 +353,6 @@ brew symfony-cli
 tap uzimaru0000/tap
 brew tv
 
-# Other Cask applications
-cask hyperswitch
-cask tweeten
-
 # App Store applications
 appstore 1540325366 Doneit (2.4.10)
 appstore 1187652334 Fuwari (1.0.0)
