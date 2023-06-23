@@ -31,7 +31,6 @@ brew docbook
 brew docbook-xsl
 brew docutils
 brew dog
-brew dotenv-linter --HEAD
 brew double-conversion
 brew edencommon
 brew expat
@@ -63,13 +62,9 @@ brew gnupg
 brew gnutls
 brew go
 brew gobject-introspection
-brew gotop
 brew gpgme
 brew gradle
 brew graphite2
-brew groff
-brew guile
-brew gum
 brew harfbuzz
 brew highway
 brew httpie
@@ -98,7 +93,6 @@ brew libgcrypt
 brew libgit2
 brew libgpg-error
 brew libheif
-brew libiconv
 brew libidn
 brew libidn2
 brew libksba
@@ -106,7 +100,10 @@ brew liblqr
 brew libmpc
 brew libnghttp2
 brew libomp
+brew libpng
+brew libpq
 brew libpthread-stubs
+brew libraw
 brew libsodium
 brew libssh2
 brew libtasn1
@@ -117,13 +114,11 @@ brew libunistring
 brew libusb
 brew libuv
 brew libvmaf
-brew libvterm
 brew libx11
 brew libxau
 brew libxcb
 brew libxdmcp
 brew libxext
-brew libxml2
 brew libxrender
 brew libyaml
 brew libzip
@@ -142,20 +137,16 @@ brew mmv
 brew mpfr
 brew msgpack
 brew mysql-client
-brew navi
 brew ncurses
 brew neomutt
-brew neovim
 brew netpbm
 brew nettle
-brew nkf
 brew node
 brew notmuch
 brew npth
 brew oniguruma
 brew openexr
 brew openfortivpn
-brew openjdk
 brew openjdk@11
 brew openjdk@17
 brew openjpeg
@@ -164,8 +155,6 @@ brew openssl@3
 brew p11-kit
 brew pcre
 brew pcre2
-brew php
-brew php@7.4
 brew php@8.0
 brew pinentry
 brew pixman
@@ -175,10 +164,8 @@ brew pv
 brew pygments
 brew python@3.10
 brew python@3.11
-brew q
 brew ranger
 brew re2c
-brew reattach-to-user-namespace
 brew ripgrep
 brew rtmpdump
 brew ruby
@@ -190,22 +177,17 @@ brew snappy
 brew sslscan
 brew subversion
 brew talloc
-brew telnet
-brew terraform
 brew tidy-html5
 brew tig
 brew tmux
-brew tmuxinator
 brew tokyo-cabinet
 brew tree
 brew tree-sitter
-brew uchardet
 brew unbound
 brew unibilium
 brew unixodbc
 brew utf8proc
 brew viddy
-brew volta
 brew wangle
 brew watchman
 brew webp
@@ -336,13 +318,11 @@ tap jimon-s/awsmfa
 brew awsmfa
 
 tap koekeishiya/formulae
-brew skhd
 brew yabai
 
 tap rcmdnk/file
 
 tap suin/suin
-brew git-remind
 
 tap symfony-cli/tap
 brew symfony-cli
@@ -351,14 +331,5 @@ tap uzimaru0000/tap
 brew tv
 
 # App Store applications
-appstore 1540325366 Doneit (2.4.10)
-appstore 1187652334 Fuwari (1.0.0)
 appstore 409183694 Keynote (13.1)
-appstore 539883307 LINE (7.17.0)
-appstore 1532419400 MeetingBar (4.4.0)
 appstore 409203825 Numbers (13.1)
-appstore 409201541 Pages (13.1)
-appstore 1425368544 Timery (1.5.4)
-appstore 1291898086 Toggl Track (8.11.1)
-appstore 1227057295 TweetShot (6.1)
-appstore 497799835 Xcode (14.3.1)
