@@ -114,6 +114,7 @@ brew libunistring
 brew libusb
 brew libuv
 brew libvmaf
+brew libvterm
 brew libx11
 brew libxau
 brew libxcb
@@ -139,6 +140,7 @@ brew msgpack
 brew mysql-client
 brew ncurses
 brew neomutt
+brew neovim
 brew netpbm
 brew nettle
 brew node
