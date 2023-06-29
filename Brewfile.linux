@@ -167,6 +167,7 @@ brew nghttp2
 brew ninja
 brew nkf
 brew oniguruma
+brew openfortivpn
 brew openjdk@11
 brew openjpeg
 brew openldap
@@ -185,6 +186,7 @@ brew pv
 brew pygments
 brew python@3.10
 brew python@3.11
+brew python@3.9
 brew ripgrep
 brew rtmpdump
 brew ruby
