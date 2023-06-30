@@ -231,6 +231,8 @@ brew aqua
 tap dart-lang/dart
 brew dart
 
+tap itchyny/tap
+
 tap noborus/tap
 brew ov
 brew ovcs
