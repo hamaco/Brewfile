@@ -308,6 +308,7 @@ cask font-martian-mono
 cask font-murecho
 cask font-plemol-jp-nf
 cask font-space-mono
+cask font-udev-gothic
 cask font-zen-maru-gothic
 
 tap homebrew/cask-versions
