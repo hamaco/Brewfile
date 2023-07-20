@@ -9,6 +9,7 @@ brew cffi
 brew gdbm
 brew libpaper
 brew mpdecimal
+brew openjdk
 brew openssl@1.1
 brew pycparser
 brew readline
