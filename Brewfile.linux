@@ -233,6 +233,8 @@ brew dart
 
 tap itchyny/tap
 
+tap jimon-s/awsmfa
+
 tap noborus/tap
 brew ov
 brew ovcs
