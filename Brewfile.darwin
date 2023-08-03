@@ -59,6 +59,7 @@ brew glog
 brew gmime
 brew gmp
 brew gnu-getopt
+brew gnu-sed
 brew gnupg
 brew gnutls
 brew go
