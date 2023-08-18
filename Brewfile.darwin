@@ -183,6 +183,7 @@ brew snappy
 brew sslscan
 brew subversion
 brew talloc
+brew telnet
 brew tidy-html5
 brew tig
 brew tmux
