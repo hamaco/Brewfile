@@ -67,6 +67,7 @@ brew gobject-introspection
 brew gpgme
 brew gradle
 brew graphite2
+brew grep
 brew harfbuzz
 brew highway
 brew httpie
