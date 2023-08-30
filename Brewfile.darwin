@@ -37,6 +37,7 @@ brew edencommon
 brew expat
 brew fb303
 brew fbthrift
+brew findutils
 brew fizz
 brew flyctl
 brew fmt
@@ -237,6 +238,7 @@ cask duet
 cask finicky
 cask firefox
 cask gather
+cask gitify
 cask google-chrome
 cask google-drive
 cask gyazo
@@ -347,4 +349,5 @@ brew tv
 # App Store applications
 appstore 409183694 Keynote (13.1)
 appstore 409203825 Numbers (13.1)
+appstore 1291898086 Toggl Track (9.0.0)
 appstore 497799835 Xcode (14.3.1)
