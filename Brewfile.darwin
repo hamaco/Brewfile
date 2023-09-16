@@ -64,6 +64,7 @@ brew gnu-sed
 brew gnupg
 brew gnutls
 brew go
+brew go-task
 brew gobject-introspection
 brew gpgme
 brew gradle
