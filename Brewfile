@@ -11,6 +11,7 @@ brew libpaper
 brew mpdecimal
 brew openssl@1.1
 brew pycparser
+brew python-certifi
 brew readline
 brew sqlite
 brew xz
