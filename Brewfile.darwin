@@ -96,8 +96,10 @@ brew libffi
 brew libfido2
 brew libgcrypt
 brew libgit2
+brew libgit2@1.6
 brew libgpg-error
 brew libheif
+brew libiconv
 brew libidn
 brew libidn2
 brew libksba
@@ -130,6 +132,7 @@ brew libyaml
 brew libzip
 brew little-cms2
 brew llvm
+brew llvm@16
 brew lmdb
 brew lua
 brew luajit
@@ -172,8 +175,11 @@ brew pkg-config
 brew psutils
 brew pv
 brew pygments
+brew python-certifi
+brew python-setuptools
 brew python@3.10
 brew python@3.11
+brew python@3.12
 brew ranger
 brew re2c
 brew ripgrep
@@ -291,6 +297,7 @@ cask slack
 cask slack-cli
 cask stats
 cask steam
+cask tabby
 cask the-unarchiver
 cask thunderbird
 cask ticktick
@@ -354,5 +361,6 @@ brew tv
 appstore 302584613 Amazon Kindle (6.85.2)
 appstore 409183694 Keynote (13.2)
 appstore 409203825 Numbers (13.2)
+appstore 965442961 Screenie (2.2.5)
 appstore 1291898086 Toggl Track (9.1.0)
 appstore 497799835 Xcode (14.3.1)
