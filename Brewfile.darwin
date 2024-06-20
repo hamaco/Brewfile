@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew alp
 brew aom
 brew apr
 brew apr-util
@@ -12,7 +13,6 @@ brew autoconf
 brew automake
 brew awscli
 brew bash
-brew bdw-gc
 brew binutils
 brew bison
 brew bit-git
@@ -23,6 +23,8 @@ brew bzip2
 brew c-ares
 brew ca-certificates
 brew cairo
+brew certifi
+brew cloud-sql-proxy
 brew cocoapods
 brew coreutils
 brew curl
@@ -30,10 +32,8 @@ brew dasel
 brew deno
 brew docbook
 brew docbook-xsl
-brew docutils
 brew dog
 brew double-conversion
-brew edencommon
 brew expat
 brew fb303
 brew fbthrift
@@ -80,6 +80,7 @@ brew isl
 brew jasper
 brew jbig2dec
 brew jemalloc
+brew jnv
 brew jpeg
 brew jpeg-turbo
 brew jpeg-xl
@@ -96,7 +97,6 @@ brew libffi
 brew libfido2
 brew libgcrypt
 brew libgit2
-brew libgit2@1.6
 brew libgpg-error
 brew libheif
 brew libiconv
@@ -132,8 +132,8 @@ brew libyaml
 brew libzip
 brew little-cms2
 brew llvm
-brew llvm@16
 brew lmdb
+brew lpeg
 brew lua
 brew luajit
 brew luajit-openresty
@@ -141,6 +141,7 @@ brew luv
 brew lz4
 brew lzo
 brew m4
+brew mactop
 brew mas
 brew mmv
 brew mpfr
@@ -151,7 +152,7 @@ brew neomutt
 brew neovim
 brew netpbm
 brew nettle
-brew node
+brew nkf
 brew notmuch
 brew npth
 brew oniguruma
@@ -175,7 +176,6 @@ brew pkg-config
 brew psutils
 brew pv
 brew pygments
-brew python-certifi
 brew python-setuptools
 brew python@3.10
 brew python@3.11
@@ -185,7 +185,6 @@ brew re2c
 brew ripgrep
 brew rtmpdump
 brew ruby
-brew rust
 brew shared-mime-info
 brew sheldon
 brew six
@@ -239,19 +238,36 @@ cask clipy
 cask coteditor
 cask daisydisk
 cask dbeaver-community
+cask devtoys
 cask discord
 cask docker
 cask dropbox
 cask duet
+cask eclipse-java
 cask finicky
 cask firefox
+cask font-azeret-mono
+cask font-cascadia-code
+cask font-cica
+cask font-fira-code
+cask font-firge
+cask font-fontawesome
+cask font-hackgen
+cask font-input
+cask font-martian-mono
+cask font-murecho
+cask font-plemol-jp-nf
+cask font-space-mono
+cask font-udev-gothic
+cask font-zen-maru-gothic
+cask fuwari
 cask gather
 cask gitify
 cask google-chrome
+cask google-cloud-sdk
 cask google-drive
 cask gyazo
 cask hammerspoon
-cask hypercal
 cask iina
 cask inkscape
 cask insomnia
@@ -273,6 +289,7 @@ cask mysqlworkbench
 cask netspot
 cask ngrok
 cask notion
+cask notion-calendar
 cask obsidian
 cask ogdesign-eagle
 cask omnifocus
@@ -297,6 +314,7 @@ cask slack-cli
 cask stats
 cask steam
 cask tabby
+cask tailscale
 cask the-unarchiver
 cask thunderbird
 cask ticktick
@@ -313,23 +331,8 @@ cask wkhtmltopdf
 cask zoom
 
 tap homebrew/cask-fonts
-cask font-azeret-mono
-cask font-cascadia-code
-cask font-cica
-cask font-fira-code
-cask font-firge
-cask font-fontawesome
-cask font-hackgen
-cask font-input
-cask font-martian-mono
-cask font-murecho
-cask font-plemol-jp-nf
-cask font-space-mono
-cask font-udev-gothic
-cask font-zen-maru-gothic
 
 tap homebrew/cask-versions
-cask 1password-beta
 
 tap homebrew/services
 
@@ -356,10 +359,16 @@ brew symfony-cli
 tap uzimaru0000/tap
 brew tv
 
+tap ynqa/tap
+
+# Other Cask applications
+cask 1password-beta
+
 # App Store applications
-appstore 302584613 Amazon Kindle (7.0)
-appstore 409183694 Keynote (13.2)
-appstore 409203825 Numbers (13.2)
+appstore 302584613 Amazon Kindle (7.13)
+appstore 409183694 Keynote (14.1)
+appstore 409203825 Numbers (14.1)
 appstore 965442961 Screenie (2.2.5)
-appstore 1291898086 Toggl Track (9.4.0)
-appstore 497799835 Xcode (15.1)
+appstore 1425368544 Timery (1.6.5)
+appstore 1291898086 Toggl Track (10.1.0)
+appstore 497799835 Xcode (15.4)
