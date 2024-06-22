@@ -34,6 +34,7 @@ brew docbook
 brew docbook-xsl
 brew dog
 brew double-conversion
+brew edencommon
 brew expat
 brew fb303
 brew fbthrift
@@ -256,7 +257,6 @@ cask font-hackgen
 cask font-input
 cask font-martian-mono
 cask font-murecho
-cask font-plemol-jp-nf
 cask font-space-mono
 cask font-udev-gothic
 cask font-zen-maru-gothic
