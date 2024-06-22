@@ -146,6 +146,7 @@ brew mas
 brew mmv
 brew mpfr
 brew msgpack
+brew mvfst
 brew mysql-client
 brew ncurses
 brew neomutt
@@ -168,7 +169,6 @@ brew p11-kit
 brew pcre
 brew pcre2
 brew php
-brew php@8.0
 brew php@8.1
 brew pinentry
 brew pixman
