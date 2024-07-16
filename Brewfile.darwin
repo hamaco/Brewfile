@@ -7,6 +7,7 @@ brew aom
 brew apr
 brew apr-util
 brew argon2
+brew aribb24
 brew asdf
 brew aspell
 brew autoconf
@@ -24,11 +25,13 @@ brew c-ares
 brew ca-certificates
 brew cairo
 brew certifi
+brew cjson
 brew cloud-sql-proxy
 brew cocoapods
 brew coreutils
 brew curl
 brew dasel
+brew dav1d
 brew deno
 brew docbook
 brew docbook-xsl
@@ -38,14 +41,18 @@ brew edencommon
 brew expat
 brew fb303
 brew fbthrift
+brew ffmpeg
 brew findutils
 brew fizz
+brew flac
 brew flyctl
 brew fmt
 brew folly
 brew fontconfig
 brew freetds
 brew freetype
+brew frei0r
+brew fribidi
 brew fzf
 brew gawk
 brew gcc
@@ -77,6 +84,7 @@ brew httpie
 brew icu4c
 brew imagemagick
 brew imath
+brew ios-deploy
 brew isl
 brew jasper
 brew jbig2dec
@@ -87,8 +95,14 @@ brew jpeg-turbo
 brew jpeg-xl
 brew keychain
 brew krb5
+brew lame
+brew leptonica
+brew libarchive
+brew libass
 brew libassuan
 brew libavif
+brew libb2
+brew libbluray
 brew libcbor
 brew libde265
 brew libedit
@@ -105,23 +119,34 @@ brew libidn
 brew libidn2
 brew libksba
 brew liblqr
+brew libmicrohttpd
 brew libmpc
 brew libnghttp2
+brew libogg
 brew libomp
 brew libpng
 brew libpq
 brew libpthread-stubs
 brew libraw
+brew librist
+brew libsamplerate
+brew libsndfile
 brew libsodium
+brew libsoxr
+brew libssh
 brew libssh2
 brew libtasn1
 brew libtermkey
 brew libtiff
 brew libtool
+brew libunibreak
 brew libunistring
 brew libusb
 brew libuv
+brew libvidstab
 brew libvmaf
+brew libvorbis
+brew libvpx
 brew libvterm
 brew libx11
 brew libxau
@@ -144,8 +169,10 @@ brew lzo
 brew m4
 brew mactop
 brew mas
+brew mbedtls
 brew mmv
 brew mpfr
+brew mpg123
 brew msgpack
 brew mvfst
 brew mysql-client
@@ -158,6 +185,7 @@ brew nkf
 brew notmuch
 brew npth
 brew oniguruma
+brew opencore-amr
 brew openexr
 brew openfortivpn
 brew openjdk
@@ -166,7 +194,9 @@ brew openjdk@17
 brew openjpeg
 brew openldap
 brew openssl@3
+brew opus
 brew p11-kit
+brew pango
 brew pcre
 brew pcre2
 brew php
@@ -182,18 +212,26 @@ brew python@3.10
 brew python@3.11
 brew python@3.12
 brew ranger
+brew rav1e
 brew re2c
 brew ripgrep
 brew rtmpdump
+brew rubberband
 brew ruby
+brew sdl2
 brew shared-mime-info
 brew sheldon
 brew six
 brew snappy
+brew speex
+brew srt
 brew sslscan
 brew subversion
+brew svt-av1
 brew talloc
 brew telnet
+brew tesseract
+brew theora
 brew tidy-html5
 brew tig
 brew tmux
@@ -210,12 +248,16 @@ brew wangle
 brew watchman
 brew webp
 brew wget
+brew x264
 brew x265
 brew xapian
 brew xmlto
 brew xorgproto
+brew xvid
 brew yq
 brew z3
+brew zeromq
+brew zimg
 brew zlib
 brew zplug
 brew zsh
@@ -369,6 +411,7 @@ cask 1password-beta
 appstore 302584613 Amazon Kindle (7.14)
 appstore 409183694 Keynote (14.1)
 appstore 409203825 Numbers (14.1)
+appstore 1564031042 Omnivore (1.38.0)
 appstore 965442961 Screenie (2.2.5)
 appstore 1425368544 Timery (1.6.5)
 appstore 1291898086 Toggl Track (10.2.0)
