@@ -111,7 +111,6 @@ brew libevent
 brew libffi
 brew libfido2
 brew libgcrypt
-brew libgit2
 brew libgpg-error
 brew libheif
 brew libiconv
@@ -207,7 +206,6 @@ brew pkg-config
 brew psutils
 brew pv
 brew pygments
-brew python-setuptools
 brew python@3.10
 brew python@3.11
 brew python@3.12
@@ -408,7 +406,7 @@ tap ynqa/tap
 cask 1password-beta
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.14)
+appstore 302584613 Amazon Kindle (7.15.1)
 appstore 409183694 Keynote (14.1)
 appstore 409203825 Numbers (14.1)
 appstore 1564031042 Omnivore (1.38.0)
