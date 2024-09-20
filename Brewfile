@@ -8,7 +8,6 @@ brew brew-file
 brew cffi
 brew cryptography
 brew gdbm
-brew libgit2@1.7
 brew libpaper
 brew mpdecimal
 brew openssl@1.1
