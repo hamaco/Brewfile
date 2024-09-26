@@ -342,6 +342,7 @@ cask popsql
 cask postico
 cask postman
 cask proxyman
+cask pushplaylabs-sidekick
 cask quail
 cask raycast
 cask rectangle
