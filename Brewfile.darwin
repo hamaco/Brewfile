@@ -275,6 +275,7 @@ cask android-studio
 cask appcleaner
 cask aquaskk
 cask arc
+cask biscuit
 cask brave-browser
 cask charles
 cask choosy
@@ -410,7 +411,7 @@ tap ynqa/tap
 cask 1password-beta
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.20)
+appstore 302584613 Amazon Kindle (7.21)
 appstore 409183694 Keynote (14.2)
 appstore 409203825 Numbers (14.2)
 appstore 1564031042 Omnivore (1.38.0)
