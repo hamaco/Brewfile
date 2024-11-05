@@ -81,7 +81,7 @@ brew grep
 brew harfbuzz
 brew highway
 brew httpie
-brew icu4c
+brew icu4c@75
 brew imagemagick
 brew imath
 brew ios-deploy
@@ -106,6 +106,7 @@ brew libb2
 brew libbluray
 brew libcbor
 brew libde265
+brew libdeflate
 brew libedit
 brew libev
 brew libevent
@@ -200,6 +201,7 @@ brew p11-kit
 brew pango
 brew pcre
 brew pcre2
+brew phive
 brew php
 brew php@8.1
 brew pinentry
@@ -208,9 +210,11 @@ brew pkg-config
 brew psutils
 brew pv
 brew pygments
+brew python-packaging
 brew python@3.10
 brew python@3.11
 brew python@3.12
+brew python@3.13
 brew ranger
 brew rav1e
 brew re2c
@@ -255,6 +259,7 @@ brew xmlto
 brew xorgproto
 brew xq
 brew xvid
+brew xxhash
 brew yq
 brew z3
 brew zeromq
@@ -406,15 +411,16 @@ brew tv
 
 tap ynqa/tap
 
-# Other Cask applications
-cask 1password-beta
+# Other Homebrew packages
+brew icu4c
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.21)
+appstore 302584613 Amazon Kindle (7.22)
 appstore 409183694 Keynote (14.2)
 appstore 409203825 Numbers (14.2)
 appstore 1564031042 Omnivore (1.38.0)
 appstore 965442961 Screenie (2.2.5)
 appstore 1425368544 Timery (1.6.5)
 appstore 1291898086 Toggl Track (10.4.0)
-appstore 497799835 Xcode (16.0)
+appstore 1295203466 Windows App (11.0.6)
+appstore 497799835 Xcode (16.1)
