@@ -206,7 +206,6 @@ brew php
 brew php@8.1
 brew pinentry
 brew pixman
-brew pkg-config
 brew psutils
 brew pv
 brew pygments
@@ -378,6 +377,7 @@ cask vlc
 cask wezterm
 cask wifi-explorer
 cask wkhtmltopdf
+cask zen-browser
 cask zoom
 
 tap homebrew/cask-fonts
@@ -413,14 +413,15 @@ tap ynqa/tap
 
 # Other Homebrew packages
 brew icu4c
+brew pkg-config
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.22)
+appstore 302584613 Amazon Kindle (7.23)
 appstore 409183694 Keynote (14.2)
 appstore 409203825 Numbers (14.2)
 appstore 1564031042 Omnivore (1.38.0)
 appstore 965442961 Screenie (2.2.5)
 appstore 1425368544 Timery (1.6.5)
-appstore 1291898086 Toggl Track (10.4.0)
+appstore 1291898086 Toggl Track (10.5.0)
 appstore 1295203466 Windows App (11.0.6)
 appstore 497799835 Xcode (16.1)
