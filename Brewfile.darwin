@@ -172,6 +172,7 @@ brew m4
 brew mactop
 brew mas
 brew mbedtls
+brew mise
 brew mmv
 brew mpfr
 brew mpg123
@@ -181,6 +182,7 @@ brew mysql-client
 brew ncurses
 brew neomutt
 brew neovim
+brew net-snmp
 brew netpbm
 brew nettle
 brew nkf
@@ -244,6 +246,7 @@ brew tree-sitter
 brew unbound
 brew unibilium
 brew unixodbc
+brew usage
 brew utf8proc
 brew viddy
 brew volta
@@ -416,7 +419,7 @@ brew icu4c
 brew pkg-config
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.23)
+appstore 302584613 Amazon Kindle (7.23.2)
 appstore 409183694 Keynote (14.2)
 appstore 409203825 Numbers (14.2)
 appstore 1564031042 Omnivore (1.38.0)
