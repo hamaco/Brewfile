@@ -403,6 +403,9 @@ brew awsmfa
 tap koekeishiya/formulae
 brew yabai
 
+tap mtgto/macskk
+cask macskk
+
 tap rcmdnk/file
 
 tap suin/suin
