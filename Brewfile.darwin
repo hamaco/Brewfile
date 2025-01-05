@@ -114,6 +114,7 @@ brew libffi
 brew libfido2
 brew libgcrypt
 brew libgit2
+brew libgit2@1.8
 brew libgpg-error
 brew libheif
 brew libiconv
@@ -224,6 +225,7 @@ brew rtmpdump
 brew rubberband
 brew ruby
 brew sdl2
+brew sfsexp
 brew shared-mime-info
 brew sheldon
 brew six
@@ -265,6 +267,7 @@ brew xxhash
 brew yq
 brew z3
 brew zeromq
+brew zig
 brew zimg
 brew zlib
 brew zplug
