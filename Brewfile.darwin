@@ -114,7 +114,6 @@ brew libffi
 brew libfido2
 brew libgcrypt
 brew libgit2
-brew libgit2@1.8
 brew libgpg-error
 brew libheif
 brew libiconv
@@ -329,6 +328,7 @@ cask insomnia
 cask iterm2
 cask jasper
 cask jetbrains-toolbox
+cask jordanbaird-ice
 cask kap
 cask karabiner-elements
 cask keepingyouawake
@@ -426,13 +426,14 @@ brew icu4c
 brew pkg-config
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.23.2)
+appstore 302584613 Amazon Kindle (7.24)
+appstore 411643860 DaisyDisk (4.31)
 appstore 288545208 Instapaper (9.0.1)
 appstore 409183694 Keynote (14.3)
 appstore 409203825 Numbers (14.3)
 appstore 1564031042 Omnivore (1.38.0)
 appstore 965442961 Screenie (2.2.5)
 appstore 1425368544 Timery (1.6.5)
-appstore 1291898086 Toggl Track (10.6.1)
+appstore 1291898086 Toggl Track (10.7.0)
 appstore 1295203466 Windows App (11.0.6)
 appstore 497799835 Xcode (16.2)

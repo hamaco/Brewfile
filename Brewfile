@@ -10,7 +10,6 @@ brew cryptography
 brew gdbm
 brew libpaper
 brew mpdecimal
-brew openssl@1.1
 brew pycparser
 brew readline
 brew sqlite
