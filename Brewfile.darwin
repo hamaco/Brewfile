@@ -398,6 +398,7 @@ tap aquaproj/aqua
 brew aqua
 
 tap charmbracelet/tap
+brew freeze
 
 tap itchyny/tap
 
