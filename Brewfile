@@ -8,8 +8,10 @@ brew brew-file
 brew cffi
 brew cryptography
 brew gdbm
+brew icu4c@76
 brew libpaper
 brew mpdecimal
+brew pkgconf
 brew pycparser
 brew readline
 brew sqlite

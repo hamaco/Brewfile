@@ -235,6 +235,7 @@ brew srt
 brew sslscan
 brew subversion
 brew svt-av1
+brew symfony-cli
 brew talloc
 brew telnet
 brew tesseract
@@ -416,7 +417,6 @@ tap rcmdnk/file
 tap suin/suin
 
 tap symfony-cli/tap
-brew symfony-cli
 
 tap uzimaru0000/tap
 brew tv
