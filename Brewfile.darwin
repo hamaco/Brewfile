@@ -12,6 +12,7 @@ brew aribb24
 brew asdf
 brew aspell
 brew autoconf
+brew automake
 brew awscli
 brew bash
 brew binutils
@@ -28,6 +29,7 @@ brew certifi
 brew cjson
 brew cloud-sql-proxy
 brew cocoapods
+brew coreutils
 brew curl
 brew dasel
 brew dav1d
@@ -339,6 +341,7 @@ cask kitty
 cask linear-linear
 cask little-snitch
 cask maccy
+cask macskk
 cask macvim
 cask meetingbar
 cask microsoft-teams
@@ -410,7 +413,6 @@ tap koekeishiya/formulae
 brew yabai
 
 tap mtgto/macskk
-cask macskk
 
 tap rcmdnk/file
 
@@ -428,7 +430,7 @@ brew icu4c
 brew pkg-config
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.25.1)
+appstore 302584613 Amazon Kindle (7.27)
 appstore 411643860 DaisyDisk (4.31)
 appstore 288545208 Instapaper (9.1.1)
 appstore 409183694 Keynote (14.3)
