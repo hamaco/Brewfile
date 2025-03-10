@@ -6,6 +6,7 @@ brew alsa-lib
 brew aom
 brew apr
 brew apr-util
+brew aqua
 brew argon2
 brew aribb24
 brew asdf
@@ -40,7 +41,6 @@ brew difftastic
 brew docutils
 brew dog
 brew elfutils
-brew exa
 brew expat
 brew fd
 brew fftw
@@ -83,7 +83,6 @@ brew harfbuzz
 brew highway
 brew httpie
 brew hwloc
-brew icu4c
 brew imath
 brew isl
 brew jasper
@@ -209,6 +208,7 @@ brew openjpeg
 brew openldap
 brew openssl@3
 brew opus
+brew ov
 brew p11-kit
 brew patchelf
 brew pcre
@@ -217,7 +217,6 @@ brew perl
 brew php
 brew php@8.1
 brew pixman
-brew pkg-config
 brew psutils
 brew pv
 brew pygments
@@ -231,11 +230,11 @@ brew rubberband
 brew ruby
 brew rust
 brew sheldon
-brew six
 brew smartmontools
 brew speexdsp
 brew starship
 brew swig
+brew symfony-cli
 brew tbls
 brew terraform
 brew tidy-html5
@@ -267,7 +266,6 @@ brew zlib
 brew zstd
 
 tap aquaproj/aqua
-brew aqua
 
 tap dart-lang/dart
 brew dart
@@ -276,8 +274,9 @@ tap itchyny/tap
 
 tap jimon-s/awsmfa
 
+tap k1low/tap
+
 tap noborus/tap
-brew ov
 brew ovcs
 
 tap rcmdnk/file
@@ -289,7 +288,11 @@ tap suin/suin
 brew git-remind
 
 tap symfony-cli/tap
-brew symfony-cli
 
 tap teamookla/speedtest
 brew speedtest
+
+# Other Homebrew packages
+brew exa
+brew icu4c
+brew pkg-config
