@@ -233,6 +233,7 @@ brew shared-mime-info
 brew sheldon
 brew six
 brew snappy
+brew sops
 brew speex
 brew srt
 brew sslscan
@@ -426,7 +427,6 @@ brew tv
 tap ynqa/tap
 
 # Other Homebrew packages
-brew icu4c
 brew pkg-config
 
 # App Store applications
