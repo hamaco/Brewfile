@@ -25,7 +25,6 @@ brew bzip2
 brew c-ares
 brew ca-certificates
 brew cairo
-brew certifi
 brew cjson
 brew cloud-sql-proxy
 brew cocoapods
@@ -100,16 +99,12 @@ brew keychain
 brew krb5
 brew lame
 brew lazygit
-brew leptonica
-brew libarchive
 brew libass
 brew libassuan
 brew libavif
-brew libb2
 brew libbluray
 brew libcbor
 brew libde265
-brew libdeflate
 brew libedit
 brew libev
 brew libevent
@@ -124,7 +119,6 @@ brew libidn
 brew libidn2
 brew libksba
 brew liblqr
-brew libmicrohttpd
 brew libmpc
 brew libnghttp2
 brew libogg
@@ -164,7 +158,6 @@ brew libzip
 brew little-cms2
 brew llvm
 brew lmdb
-brew lpeg
 brew lua
 brew luajit
 brew luajit-openresty
@@ -185,7 +178,6 @@ brew mysql-client
 brew ncurses
 brew neomutt
 brew neovim
-brew net-snmp
 brew netpbm
 brew nettle
 brew nkf
@@ -204,7 +196,6 @@ brew openldap
 brew openssl@3
 brew opus
 brew p11-kit
-brew pango
 brew pcre
 brew pcre2
 brew phive
@@ -218,8 +209,6 @@ brew pygments
 brew python-packaging
 brew python@3.10
 brew python@3.11
-brew python@3.12
-brew python@3.13
 brew ranger
 brew rav1e
 brew re2c
@@ -242,7 +231,6 @@ brew svt-av1
 brew symfony-cli
 brew talloc
 brew telnet
-brew tesseract
 brew theora
 brew tidy-html5
 brew tig
