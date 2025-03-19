@@ -97,6 +97,7 @@ brew keychain
 brew krb5
 brew ladspa-sdk
 brew lame
+brew lazygit
 brew libass
 brew libavif
 brew libbluray
@@ -230,6 +231,7 @@ brew rubberband
 brew ruby
 brew rust
 brew sheldon
+brew six
 brew smartmontools
 brew speexdsp
 brew starship
@@ -294,5 +296,4 @@ brew speedtest
 
 # Other Homebrew packages
 brew exa
-brew icu4c
 brew pkg-config
