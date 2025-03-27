@@ -12,7 +12,6 @@ brew aribb24
 brew asdf
 brew aspell
 brew autoconf
-brew automake
 brew awscli
 brew bash
 brew binutils
@@ -418,7 +417,7 @@ tap ynqa/tap
 brew pkg-config
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.27.1)
+appstore 302584613 Amazon Kindle (7.28)
 appstore 411643860 DaisyDisk (4.31)
 appstore 288545208 Instapaper (9.1.1)
 appstore 409183694 Keynote (14.3)
@@ -427,6 +426,6 @@ appstore 1564031042 Omnivore (1.38.0)
 appstore 409201541 Pages (14.3)
 appstore 965442961 Screenie (2.2.5)
 appstore 1425368544 Timery (1.6.5)
-appstore 1291898086 Toggl Track (10.8.0)
+appstore 1291898086 Toggl Track (10.9.0)
 appstore 1295203466 Windows App (11.0.6)
 appstore 497799835 Xcode (16.2)
