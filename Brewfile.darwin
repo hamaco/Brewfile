@@ -12,6 +12,7 @@ brew aribb24
 brew asdf
 brew aspell
 brew autoconf
+brew automake
 brew awscli
 brew bash
 brew binutils
@@ -82,6 +83,7 @@ brew harfbuzz
 brew highway
 brew httpie
 brew icu4c@75
+brew icu4c@77
 brew imagemagick
 brew imath
 brew ios-deploy
@@ -155,6 +157,7 @@ brew libxrender
 brew libyaml
 brew libzip
 brew little-cms2
+brew lld
 brew llvm
 brew lmdb
 brew lua
@@ -417,15 +420,15 @@ tap ynqa/tap
 brew pkg-config
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.28)
+appstore 302584613 Amazon Kindle (7.29)
 appstore 411643860 DaisyDisk (4.31)
-appstore 288545208 Instapaper (9.1.1)
-appstore 409183694 Keynote (14.3)
-appstore 409203825 Numbers (14.3)
+appstore 288545208 Instapaper (9.1.2)
+appstore 409183694 Keynote (14.4)
+appstore 409203825 Numbers (14.4)
 appstore 1564031042 Omnivore (1.38.0)
-appstore 409201541 Pages (14.3)
+appstore 409201541 Pages (14.4)
 appstore 965442961 Screenie (2.2.5)
 appstore 1425368544 Timery (1.6.5)
-appstore 1291898086 Toggl Track (10.9.0)
+appstore 1291898086 Toggl Track (10.9.1)
 appstore 1295203466 Windows App (11.0.6)
-appstore 497799835 Xcode (16.2)
+appstore 497799835 Xcode (16.3)
