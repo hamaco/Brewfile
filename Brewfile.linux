@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew acl
 brew alsa-lib
 brew aom
 brew apr
@@ -83,6 +84,7 @@ brew harfbuzz
 brew highway
 brew httpie
 brew hwloc
+brew icu4c@77
 brew imath
 brew isl
 brew jasper
@@ -102,6 +104,7 @@ brew libass
 brew libavif
 brew libbluray
 brew libcap
+brew libclc
 brew libdrm
 brew libedit
 brew libev
@@ -174,6 +177,7 @@ brew linux-headers@5.15
 brew little-cms2
 brew llvm
 brew llvm@15
+brew llvm@19
 brew lm-sensors
 brew lua
 brew luajit
@@ -207,6 +211,7 @@ brew openfortivpn
 brew openjdk@11
 brew openjpeg
 brew openldap
+brew openssl@1.1
 brew openssl@3
 brew opus
 brew ov
@@ -215,9 +220,11 @@ brew patchelf
 brew pcre
 brew pcre2
 brew perl
+brew phive
 brew php
 brew php@8.1
 brew pixman
+brew pmix
 brew psutils
 brew pv
 brew pygments
@@ -234,6 +241,8 @@ brew sheldon
 brew six
 brew smartmontools
 brew speexdsp
+brew spirv-llvm-translator
+brew spirv-tools
 brew starship
 brew swig
 brew symfony-cli
@@ -243,6 +252,7 @@ brew tidy-html5
 brew tig
 brew tmux
 brew tmuxinator
+brew tmuxinator-completion
 brew tree-sitter
 brew ttfautohint
 brew uchardet
@@ -252,6 +262,7 @@ brew unixodbc
 brew unzip
 brew utf8proc
 brew util-linux
+brew valgrind
 brew vamp-plugin-sdk
 brew viddy
 brew vim
