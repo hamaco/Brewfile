@@ -4,6 +4,7 @@
 tap homebrew/core
 brew acl
 brew alsa-lib
+brew ansible
 brew aom
 brew apr
 brew apr-util
@@ -132,6 +133,7 @@ brew libsm
 brew libsndfile
 brew libsodium
 brew libsoxr
+brew libssh
 brew libssh2
 brew libtasn1
 brew libtermkey
