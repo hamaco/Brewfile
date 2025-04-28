@@ -12,7 +12,6 @@ brew aribb24
 brew asdf
 brew aspell
 brew autoconf
-brew automake
 brew awscli
 brew bash
 brew binutils
@@ -147,7 +146,6 @@ brew libvidstab
 brew libvmaf
 brew libvorbis
 brew libvpx
-brew libvterm
 brew libx11
 brew libxau
 brew libxcb
@@ -157,8 +155,9 @@ brew libxrender
 brew libyaml
 brew libzip
 brew little-cms2
-brew lld
+brew lld@19
 brew llvm
+brew llvm@19
 brew lmdb
 brew lua
 brew luajit
@@ -395,6 +394,8 @@ tap aquaproj/aqua
 tap charmbracelet/tap
 brew freeze
 
+tap felixkratz/formulae
+
 tap itchyny/tap
 
 tap jimon-s/awsmfa
@@ -420,7 +421,7 @@ tap ynqa/tap
 brew pkg-config
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.29)
+appstore 302584613 Amazon Kindle (7.30)
 appstore 411643860 DaisyDisk (4.31)
 appstore 288545208 Instapaper (9.1.2)
 appstore 409183694 Keynote (14.4)
