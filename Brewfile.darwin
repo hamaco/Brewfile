@@ -395,6 +395,7 @@ tap charmbracelet/tap
 brew freeze
 
 tap felixkratz/formulae
+brew borders
 
 tap itchyny/tap
 
