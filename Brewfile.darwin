@@ -204,6 +204,7 @@ brew php
 brew php@8.1
 brew pinentry
 brew pixman
+brew pkg-config
 brew psutils
 brew pv
 brew pygments
@@ -365,6 +366,7 @@ cask slack
 cask slack-cli
 cask stats
 cask steam
+cask swift-shift
 cask tabby
 cask tailscale
 cask the-unarchiver
@@ -418,11 +420,8 @@ brew tv
 
 tap ynqa/tap
 
-# Other Homebrew packages
-brew pkg-config
-
 # App Store applications
-appstore 302584613 Amazon Kindle (7.30)
+appstore 302584613 Amazon Kindle (7.31)
 appstore 411643860 DaisyDisk (4.31)
 appstore 288545208 Instapaper (9.1.2)
 appstore 409183694 Keynote (14.4)
