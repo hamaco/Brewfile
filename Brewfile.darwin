@@ -404,6 +404,9 @@ tap itchyny/tap
 tap jimon-s/awsmfa
 brew awsmfa
 
+tap k1low/tap
+brew runn
+
 tap koekeishiya/formulae
 brew yabai
 
