@@ -412,6 +412,9 @@ brew yabai
 
 tap mtgto/macskk
 
+tap nikitabobko/tap
+cask aerospace
+
 tap rcmdnk/file
 
 tap suin/suin
