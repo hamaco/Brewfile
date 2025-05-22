@@ -232,6 +232,7 @@ brew subversion
 brew svt-av1
 brew symfony-cli
 brew talloc
+brew tbls
 brew telnet
 brew theora
 brew tidy-html5
@@ -426,7 +427,7 @@ brew tv
 tap ynqa/tap
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.31)
+appstore 302584613 Amazon Kindle (7.32)
 appstore 411643860 DaisyDisk (4.31)
 appstore 288545208 Instapaper (9.1.2)
 appstore 409183694 Keynote (14.4)
@@ -435,6 +436,6 @@ appstore 1564031042 Omnivore (1.38.0)
 appstore 409201541 Pages (14.4)
 appstore 965442961 Screenie (2.2.5)
 appstore 1425368544 Timery (1.6.5)
-appstore 1291898086 Toggl Track (10.9.1)
+appstore 1291898086 Toggl Track (10.10.0)
 appstore 1295203466 Windows App (11.0.6)
 appstore 497799835 Xcode (16.3)
