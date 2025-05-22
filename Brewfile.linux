@@ -101,6 +101,7 @@ brew krb5
 brew ladspa-sdk
 brew lame
 brew lazygit
+brew lefthook
 brew libass
 brew libavif
 brew libbluray
