@@ -232,7 +232,6 @@ brew subversion
 brew svt-av1
 brew symfony-cli
 brew talloc
-brew tbls
 brew telnet
 brew theora
 brew tidy-html5
@@ -430,7 +429,7 @@ brew tv
 tap ynqa/tap
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.34)
+appstore 302584613 Amazon Kindle (7.35)
 appstore 411643860 DaisyDisk (4.31)
 appstore 288545208 Instapaper (9.1.2)
 appstore 409183694 Keynote (14.4)
