@@ -362,7 +362,6 @@ cask scroll-reverser
 cask session-manager-plugin
 cask setapp
 cask sketch
-cask skitch
 cask skype
 cask slack
 cask slack-cli
@@ -427,6 +426,9 @@ tap uzimaru0000/tap
 brew tv
 
 tap ynqa/tap
+
+# Other Cask applications
+cask skitch
 
 # App Store applications
 appstore 302584613 Amazon Kindle (7.35)
