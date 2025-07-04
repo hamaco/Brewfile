@@ -101,7 +101,6 @@ brew krb5
 brew ladspa-sdk
 brew lame
 brew lazygit
-brew lefthook
 brew libass
 brew libavif
 brew libbluray
@@ -195,6 +194,7 @@ brew mbedtls
 brew mesa
 brew mesa-glu
 brew meson
+brew mise
 brew mmv
 brew mpfr
 brew mpg123
@@ -263,6 +263,7 @@ brew unbound
 brew unibilium
 brew unixodbc
 brew unzip
+brew usage
 brew utf8proc
 brew util-linux
 brew valgrind
