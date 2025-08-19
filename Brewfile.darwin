@@ -14,6 +14,7 @@ brew aspell
 brew autoconf
 brew awscli
 brew bash
+brew bdw-gc
 brew binutils
 brew bison
 brew bit-git
@@ -28,13 +29,13 @@ brew cjson
 brew cloud-sql-proxy
 brew cocoapods
 brew coreutils
+brew crystal
 brew curl
 brew dasel
 brew dav1d
 brew deno
 brew docbook
 brew docbook-xsl
-brew dog
 brew dotenv-linter
 brew double-conversion
 brew edencommon
@@ -285,6 +286,7 @@ cask brave-browser
 cask charles
 cask choosy
 cask claude
+cask claude-code
 cask clickup
 cask clipy
 cask coteditor
@@ -411,6 +413,9 @@ brew runn
 tap koekeishiya/formulae
 brew yabai
 
+tap morantron/tmux-fingers
+brew tmux-fingers
+
 tap mtgto/macskk
 
 tap nikitabobko/tap
@@ -427,19 +432,15 @@ brew tv
 
 tap ynqa/tap
 
+# Other Homebrew packages
+brew dog
+
 # Other Cask applications
 cask skitch
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.35)
-appstore 411643860 DaisyDisk (4.31)
-appstore 288545208 Instapaper (9.1.2)
-appstore 409183694 Keynote (14.4)
+appstore 302584613 Amazon Kindle (7.38.1)
+appstore 288545208 Instapaper (9.3)
 appstore 409203825 Numbers (14.4)
-appstore 1564031042 Omnivore (1.38.0)
-appstore 409201541 Pages (14.4)
-appstore 965442961 Screenie (2.2.5)
 appstore 1425368544 Timery (1.7)
-appstore 1291898086 Toggl Track (10.10.0)
-appstore 1295203466 Windows App (11.0.6)
-appstore 497799835 Xcode (16.4)
+appstore 1291898086 Toggl Track (10.13.0)
