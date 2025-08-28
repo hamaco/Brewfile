@@ -41,7 +41,6 @@ brew deno
 brew diff-so-fancy
 brew difftastic
 brew docutils
-brew dog
 brew elfutils
 brew expat
 brew fd
@@ -149,7 +148,6 @@ brew libvidstab
 brew libvmaf
 brew libvorbis
 brew libvpx
-brew libvterm
 brew libx11
 brew libxau
 brew libxcb
@@ -179,7 +177,6 @@ brew linux-headers@5.15
 brew little-cms2
 brew llvm
 brew llvm@15
-brew llvm@19
 brew lm-sensors
 brew lua
 brew luajit
@@ -198,7 +195,6 @@ brew mise
 brew mmv
 brew mpfr
 brew mpg123
-brew msgpack
 brew ncurses
 brew neovim
 brew netpbm
@@ -310,5 +306,6 @@ tap teamookla/speedtest
 brew speedtest
 
 # Other Homebrew packages
+brew dog
 brew exa
 brew pkg-config
