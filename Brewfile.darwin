@@ -281,7 +281,6 @@ cask alt-tab
 cask android-studio
 cask appcleaner
 cask aquaskk
-cask arc
 cask brave-browser
 cask charles
 cask choosy
@@ -439,8 +438,15 @@ brew dog
 cask skitch
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.38.1)
+appstore 302584613 Amazon Kindle (7.40.1)
+appstore 411643860 DaisyDisk (4.31)
 appstore 288545208 Instapaper (9.3)
+appstore 409183694 Keynote (14.4)
 appstore 409203825 Numbers (14.4)
+appstore 1564031042 Omnivore (1.38.0)
+appstore 409201541 Pages (14.4)
+appstore 965442961 Screenie (2.2.5)
 appstore 1425368544 Timery (1.7)
 appstore 1291898086 Toggl Track (10.13.0)
+appstore 1295203466 Windows App (11.0.6)
+appstore 497799835 Xcode (16.4)
