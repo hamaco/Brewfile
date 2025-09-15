@@ -383,6 +383,7 @@ cask vivaldi
 cask vlc
 cask wezterm
 cask wifi-explorer
+cask windows-app
 cask wkhtmltopdf
 cask zen-browser
 cask zoom
@@ -446,5 +447,4 @@ appstore 409201541 Pages (14.4)
 appstore 965442961 Screenie (2.2.5)
 appstore 1425368544 Timery (1.7.1)
 appstore 1291898086 Toggl Track (10.13.0)
-appstore 1295203466 Windows App (11.0.6)
 appstore 497799835 Xcode (16.4)
