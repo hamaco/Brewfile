@@ -315,5 +315,4 @@ tap teamookla/speedtest
 brew speedtest
 
 # Other Homebrew packages
-brew dog
 brew exa
