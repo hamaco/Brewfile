@@ -313,6 +313,3 @@ tap symfony-cli/tap
 
 tap teamookla/speedtest
 brew speedtest
-
-# Other Homebrew packages
-brew exa
