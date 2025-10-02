@@ -25,10 +25,12 @@ brew bzip2
 brew c-ares
 brew ca-certificates
 brew cairo
+brew cffi
 brew cjson
 brew cloud-sql-proxy
 brew cocoapods
 brew coreutils
+brew cryptography
 brew crystal
 brew curl
 brew dasel
@@ -84,6 +86,7 @@ brew harfbuzz
 brew highway
 brew httpie
 brew icu4c@75
+brew icu4c@76
 brew icu4c@77
 brew imagemagick
 brew imath
@@ -121,6 +124,7 @@ brew libidn
 brew libidn2
 brew libksba
 brew liblqr
+brew libmicrohttpd
 brew libmpc
 brew libnghttp2
 brew libogg
@@ -209,6 +213,7 @@ brew pixman
 brew pkg-config
 brew psutils
 brew pv
+brew pycparser
 brew pygments
 brew python-packaging
 brew python@3.10
