@@ -389,8 +389,6 @@ cask wkhtmltopdf
 cask zen-browser
 cask zoom
 
-tap homebrew/cask-versions
-
 tap homebrew/services
 
 tap aquaproj/aqua
