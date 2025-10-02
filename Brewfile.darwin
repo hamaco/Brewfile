@@ -60,6 +60,7 @@ brew gcc
 brew gd
 brew gettext
 brew gflags
+brew gh
 brew ghostscript
 brew ghq
 brew giflib
@@ -437,8 +438,8 @@ brew dog
 cask skitch
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.41)
-appstore 411643860 DaisyDisk (4.31)
+appstore 302584613 Amazon Kindle (7.42.1)
+appstore 411643860 DaisyDisk (4.32)
 appstore 288545208 Instapaper (9.3.1)
 appstore 409183694 Keynote (14.4)
 appstore 409203825 Numbers (14.4)
@@ -447,4 +448,4 @@ appstore 409201541 Pages (14.4)
 appstore 965442961 Screenie (2.2.5)
 appstore 1425368544 Timery (1.7.1)
 appstore 1291898086 Toggl Track (10.13.0)
-appstore 497799835 Xcode (26.0)
+appstore 497799835 Xcode (26.0.1)
