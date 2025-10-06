@@ -157,6 +157,7 @@ brew libxau
 brew libxcb
 brew libxdmcp
 brew libxext
+brew libxml2
 brew libxrender
 brew libyaml
 brew libzip
