@@ -30,12 +30,10 @@ brew cjson
 brew cloud-sql-proxy
 brew cocoapods
 brew coreutils
-brew cryptography
 brew crystal
 brew curl
 brew dasel
 brew dav1d
-brew deno
 brew docbook
 brew docbook-xsl
 brew dotenv-linter
@@ -86,7 +84,6 @@ brew harfbuzz
 brew highway
 brew httpie
 brew icu4c@75
-brew icu4c@76
 brew icu4c@77
 brew imagemagick
 brew imath
@@ -127,6 +124,8 @@ brew liblqr
 brew libmicrohttpd
 brew libmpc
 brew libnghttp2
+brew libnghttp3
+brew libngtcp2
 brew libogg
 brew libomp
 brew libpng
@@ -144,6 +143,7 @@ brew libtasn1
 brew libtermkey
 brew libtiff
 brew libtool
+brew libudfread
 brew libunibreak
 brew libunistring
 brew libusb
@@ -161,9 +161,9 @@ brew libxrender
 brew libyaml
 brew libzip
 brew little-cms2
-brew lld@19
+brew lld@20
 brew llvm
-brew llvm@19
+brew llvm@20
 brew lmdb
 brew lua
 brew luajit
@@ -199,6 +199,7 @@ brew openjdk
 brew openjdk@11
 brew openjdk@17
 brew openjpeg
+brew openjph
 brew openldap
 brew openssl@3
 brew opus
@@ -215,7 +216,6 @@ brew psutils
 brew pv
 brew pycparser
 brew pygments
-brew python-packaging
 brew python@3.10
 brew python@3.11
 brew ranger
@@ -442,9 +442,10 @@ cask skitch
 
 # App Store applications
 appstore 302584613 Amazon Kindle (7.42.1)
-appstore 411643860 DaisyDisk (4.32)
+appstore 411643860 DaisyDisk (4.31)
 appstore 288545208 Instapaper (9.3.1)
 appstore 409183694 Keynote (14.4)
+appstore 472226235 LanScan (8.0.20)
 appstore 409203825 Numbers (14.4)
 appstore 1564031042 Omnivore (1.38.0)
 appstore 409201541 Pages (14.4)
