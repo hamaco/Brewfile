@@ -154,6 +154,7 @@ brew libvidstab
 brew libvmaf
 brew libvorbis
 brew libvpx
+brew libvterm
 brew libx11
 brew libxau
 brew libxcb
@@ -183,6 +184,7 @@ brew linux-headers@5.15
 brew little-cms2
 brew llvm
 brew llvm@15
+brew llvm@19
 brew lm-sensors
 brew lua
 brew luajit
@@ -191,6 +193,7 @@ brew luv
 brew lz4
 brew lzo
 brew m4
+brew mad
 brew mandoc
 brew mawk
 brew mbedtls
@@ -201,6 +204,7 @@ brew mise
 brew mmv
 brew mpfr
 brew mpg123
+brew msgpack
 brew ncurses
 brew neovim
 brew netpbm
@@ -219,6 +223,7 @@ brew openldap
 brew openssl@1.1
 brew openssl@3
 brew opus
+brew opusfile
 brew ov
 brew p11-kit
 brew patchelf
@@ -247,6 +252,7 @@ brew rust
 brew sheldon
 brew six
 brew smartmontools
+brew sox
 brew speexdsp
 brew spirv-llvm-translator
 brew spirv-tools
