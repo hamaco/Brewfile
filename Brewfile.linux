@@ -44,6 +44,7 @@ brew deno
 brew diff-so-fancy
 brew difftastic
 brew docutils
+brew doge
 brew elfutils
 brew expat
 brew fd
@@ -125,6 +126,8 @@ brew libmetalink
 brew libmicrohttpd
 brew libmpc
 brew libnghttp2
+brew libnghttp3
+brew libngtcp2
 brew libnsl
 brew libogg
 brew libpciaccess
@@ -254,6 +257,7 @@ brew six
 brew smartmontools
 brew sox
 brew speexdsp
+brew spirv-headers
 brew spirv-llvm-translator
 brew spirv-tools
 brew starship
@@ -266,7 +270,6 @@ brew tig
 brew tmux
 brew tmuxinator
 brew tmuxinator-completion
-brew tree
 brew tree-sitter
 brew ttfautohint
 brew uchardet
@@ -319,3 +322,6 @@ tap symfony-cli/tap
 
 tap teamookla/speedtest
 brew speedtest
+
+# Other Homebrew packages
+brew exa
