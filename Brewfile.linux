@@ -40,7 +40,6 @@ brew cyrus-sasl
 brew dasel
 brew dav1d
 brew dbus
-brew deno
 brew diff-so-fancy
 brew difftastic
 brew docutils
