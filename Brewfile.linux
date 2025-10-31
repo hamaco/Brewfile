@@ -44,7 +44,6 @@ brew deno
 brew diff-so-fancy
 brew difftastic
 brew docutils
-brew doge
 brew elfutils
 brew expat
 brew fd
@@ -157,7 +156,6 @@ brew libvidstab
 brew libvmaf
 brew libvorbis
 brew libvpx
-brew libvterm
 brew libx11
 brew libxau
 brew libxcb
@@ -187,7 +185,6 @@ brew linux-headers@5.15
 brew little-cms2
 brew llvm
 brew llvm@15
-brew llvm@19
 brew lm-sensors
 brew lua
 brew luajit
@@ -196,7 +193,6 @@ brew luv
 brew lz4
 brew lzo
 brew m4
-brew mad
 brew mandoc
 brew mawk
 brew mbedtls
@@ -207,7 +203,6 @@ brew mise
 brew mmv
 brew mpfr
 brew mpg123
-brew msgpack
 brew ncurses
 brew neovim
 brew netpbm
@@ -222,11 +217,10 @@ brew openexr
 brew openfortivpn
 brew openjdk@11
 brew openjpeg
+brew openjph
 brew openldap
-brew openssl@1.1
 brew openssl@3
 brew opus
-brew opusfile
 brew ov
 brew p11-kit
 brew patchelf
@@ -255,7 +249,6 @@ brew rust
 brew sheldon
 brew six
 brew smartmontools
-brew sox
 brew speexdsp
 brew spirv-headers
 brew spirv-llvm-translator
@@ -270,6 +263,7 @@ brew tig
 brew tmux
 brew tmuxinator
 brew tmuxinator-completion
+brew tree
 brew tree-sitter
 brew ttfautohint
 brew uchardet
@@ -324,4 +318,4 @@ tap teamookla/speedtest
 brew speedtest
 
 # Other Homebrew packages
-brew exa
+brew openssl@1.1
