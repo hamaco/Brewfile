@@ -236,8 +236,8 @@ brew psutils
 brew pv
 brew pycparser
 brew pygments
-brew python@3.10
 brew python@3.11
+brew python@3.14
 brew rav1e
 brew re2c
 brew ripgrep
