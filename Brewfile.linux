@@ -84,6 +84,7 @@ brew gzip
 brew hadolint
 brew harfbuzz
 brew highway
+brew httpd
 brew httpie
 brew hwloc
 brew icu4c@76
