@@ -19,6 +19,7 @@ brew pango
 brew pkgconf
 brew python@3.12
 brew python@3.13
+brew python@3.14
 brew readline
 brew sqlite
 brew tesseract
