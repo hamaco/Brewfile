@@ -219,6 +219,7 @@ brew openjdk@11
 brew openjpeg
 brew openjph
 brew openldap
+brew openssl@1.1
 brew openssl@3
 brew opus
 brew ov
@@ -238,7 +239,6 @@ brew pv
 brew pycparser
 brew pygments
 brew python@3.11
-brew python@3.14
 brew rav1e
 brew re2c
 brew ripgrep
@@ -316,6 +316,3 @@ tap symfony-cli/tap
 
 tap teamookla/speedtest
 brew speedtest
-
-# Other Homebrew packages
-brew openssl@1.1
