@@ -100,6 +100,7 @@ brew jpeg-xl
 brew jq
 brew json-c
 brew keychain
+brew keyutils
 brew krb5
 brew ladspa-sdk
 brew lame
@@ -230,7 +231,6 @@ brew pcre2
 brew perl
 brew phive
 brew php
-brew php@8.1
 brew pixman
 brew pkg-config
 brew pmix
@@ -238,7 +238,7 @@ brew psutils
 brew pv
 brew pycparser
 brew pygments
-brew python@3.11
+brew python@3.14
 brew rav1e
 brew re2c
 brew ripgrep
