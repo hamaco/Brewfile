@@ -235,6 +235,7 @@ brew patchelf
 brew pcre
 brew pcre2
 brew perl
+brew phive
 brew php
 brew pixman
 brew pkg-config
