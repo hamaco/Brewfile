@@ -6,7 +6,10 @@ brew acl
 brew alsa-lib
 brew ansible
 brew aom
+brew apr
+brew apr-util
 brew aqua
+brew argon2
 brew aribb24
 brew asdf
 brew aspell
@@ -51,6 +54,7 @@ brew flex
 brew flyctl
 brew fontconfig
 brew freeglut
+brew freetds
 brew freetype
 brew frei0r
 brew fribidi
@@ -128,6 +132,7 @@ brew libnsl
 brew libogg
 brew libpciaccess
 brew libpng
+brew libpq
 brew libpthread-stubs
 brew librist
 brew libsamplerate
@@ -193,6 +198,7 @@ brew lzo
 brew m4
 brew mad
 brew mandoc
+brew mawk
 brew mbedtls
 brew mesa
 brew mesa-glu
@@ -204,6 +210,7 @@ brew mpg123
 brew msgpack
 brew ncurses
 brew neovim
+brew net-snmp
 brew netpbm
 brew nettle
 brew nghttp2
@@ -228,6 +235,7 @@ brew patchelf
 brew pcre
 brew pcre2
 brew perl
+brew php
 brew pixman
 brew pkg-config
 brew pmix
@@ -257,6 +265,7 @@ brew swig
 brew symfony-cli
 brew tbls
 brew terraform
+brew tidy-html5
 brew tig
 brew tmux
 brew tmuxinator
@@ -266,6 +275,7 @@ brew ttfautohint
 brew uchardet
 brew unbound
 brew unibilium
+brew unixodbc
 brew unzip
 brew usage
 brew utf8proc
