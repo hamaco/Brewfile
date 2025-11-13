@@ -15,7 +15,6 @@ brew libdeflate
 brew libpaper
 brew lpeg
 brew mpdecimal
-brew net-snmp
 brew pango
 brew pkgconf
 brew python@3.12
