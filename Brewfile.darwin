@@ -186,6 +186,7 @@ brew mysql-client
 brew ncurses
 brew neomutt
 brew neovim
+brew net-snmp
 brew netpbm
 brew nettle
 brew nkf
