@@ -7,7 +7,6 @@ brew brew-file
 # Other Homebrew packages
 brew certifi
 brew gdbm
-brew keyutils
 brew leptonica
 brew libarchive
 brew libb2
