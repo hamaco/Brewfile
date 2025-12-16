@@ -7,14 +7,13 @@ brew brew-file
 # Other Homebrew packages
 brew certifi
 brew gdbm
-brew gradle-completion
 brew icu4c@78
+brew keyutils
 brew leptonica
 brew libarchive
 brew libb2
 brew libdeflate
 brew libpaper
-brew libultrahdr
 brew lpeg
 brew mbedtls@3
 brew mpdecimal
@@ -26,6 +25,7 @@ brew python@3.14
 brew readline
 brew sqlite
 brew tesseract
+brew tree
 brew tree-sitter@0.25
 brew xz
 
