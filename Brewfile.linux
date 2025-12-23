@@ -78,6 +78,7 @@ brew go
 brew go-task
 brew gobject-introspection
 brew gperf
+brew gradle-completion
 brew graphite2
 brew groff
 brew gron
@@ -148,6 +149,7 @@ brew libtiff
 brew libtirpc
 brew libtool
 brew libudfread
+brew libultrahdr
 brew libunibreak
 brew libunistring
 brew libuv
@@ -271,7 +273,6 @@ brew tig
 brew tmux
 brew tmuxinator
 brew tmuxinator-completion
-brew tree-sitter
 brew ttfautohint
 brew uchardet
 brew unbound
@@ -298,6 +299,8 @@ brew zlib
 brew zstd
 
 tap aquaproj/aqua
+
+tap bharath-code/tap
 
 tap dart-lang/dart
 brew dart
