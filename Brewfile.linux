@@ -301,6 +301,7 @@ brew zstd
 tap aquaproj/aqua
 
 tap bharath-code/tap
+brew git-scope
 
 tap dart-lang/dart
 brew dart
