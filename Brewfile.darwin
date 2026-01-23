@@ -303,6 +303,7 @@ cask discord
 cask docker
 cask dropbox
 cask duet
+cask easy-move+resize
 cask eclipse-java
 cask finicky
 cask firefox
@@ -443,17 +444,3 @@ brew dog
 # Other Cask applications
 cask skitch
 cask wkhtmltopdf
-
-# App Store applications
-appstore 302584613 Amazon Kindle (7.48)
-appstore 411643860 DaisyDisk (4.31)
-appstore 288545208 Instapaper (9.3.1)
-appstore 409183694 Keynote (14.4)
-appstore 472226235 LanScan (8.0.27)
-appstore 409203825 Numbers (14.4)
-appstore 1564031042 Omnivore (1.38.0)
-appstore 409201541 Pages (14.4)
-appstore 965442961 Screenie (2.2.5)
-appstore 1425368544 Timery (1.7.3)
-appstore 1291898086 Toggl Track (10.15.0)
-appstore 497799835 Xcode (26.2)
