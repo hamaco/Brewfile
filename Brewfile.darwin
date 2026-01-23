@@ -303,7 +303,6 @@ cask discord
 cask docker
 cask dropbox
 cask duet
-cask easy-move+resize
 cask eclipse-java
 cask finicky
 cask firefox
