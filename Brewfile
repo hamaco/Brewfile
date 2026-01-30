@@ -8,7 +8,6 @@ brew brew-file
 brew certifi
 brew gdbm
 brew icu4c@78
-brew keyutils
 brew leptonica
 brew libarchive
 brew libb2
