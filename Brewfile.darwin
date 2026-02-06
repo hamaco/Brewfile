@@ -296,6 +296,7 @@ cask claude
 cask claude-code
 cask clickup
 cask clipy
+cask codexbar
 cask copilot-cli@prerelease
 cask coteditor
 cask daisydisk
@@ -368,6 +369,7 @@ cask quail
 cask raindropio
 cask raycast
 cask reflect
+cask repobar
 cask scroll-reverser
 cask session-manager-plugin
 cask setapp
@@ -428,7 +430,6 @@ cask aerospace
 tap rcmdnk/file
 
 tap steipete/tap
-cask codexbar
 
 tap suin/suin
 
@@ -447,14 +448,14 @@ cask skitch
 cask wkhtmltopdf
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.50)
+appstore 302584613 Amazon Kindle (7.51)
 appstore 411643860 DaisyDisk (4.31)
 appstore 288545208 Instapaper (9.4.1)
-appstore 409183694 Keynote (14.4)
-appstore 472226235 LanScan (8.2.2)
-appstore 409203825 Numbers (14.4)
+appstore 409183694 Keynote (14.5)
+appstore 472226235 LanScan (8.2.3)
+appstore 409203825 Numbers (14.5)
 appstore 1564031042 Omnivore (1.38.0)
-appstore 409201541 Pages (14.4)
+appstore 409201541 Pages (14.5)
 appstore 965442961 Screenie (2.2.5)
 appstore 1425368544 Timery (1.7.3)
 appstore 1291898086 Toggl Track (10.15.0)
