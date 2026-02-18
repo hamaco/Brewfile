@@ -297,7 +297,6 @@ cask claude-code
 cask clickup
 cask clipy
 cask codexbar
-cask copilot-cli@prerelease
 cask coteditor
 cask daisydisk
 cask dbeaver-community
@@ -448,11 +447,11 @@ cask skitch
 cask wkhtmltopdf
 
 # App Store applications
-appstore 302584613 Amazon Kindle (7.51)
-appstore 411643860 DaisyDisk (4.31)
+appstore 302584613 Amazon Kindle (7.52)
+appstore 411643860 DaisyDisk (4.33.2)
 appstore 288545208 Instapaper (9.4.1)
 appstore 409183694 Keynote (14.5)
-appstore 472226235 LanScan (8.2.3)
+appstore 472226235 LanScan (8.2.4)
 appstore 409203825 Numbers (14.5)
 appstore 1564031042 Omnivore (1.38.0)
 appstore 409201541 Pages (14.5)
