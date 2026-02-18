@@ -102,6 +102,7 @@ brew jpeg-xl
 brew jq
 brew json-c
 brew keychain
+brew keyutils
 brew krb5
 brew ladspa-sdk
 brew lame
@@ -313,6 +314,7 @@ tap itchyny/tap
 tap jimon-s/awsmfa
 
 tap k1low/tap
+brew git-wt
 
 tap noborus/tap
 brew ovcs
