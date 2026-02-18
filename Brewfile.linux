@@ -111,6 +111,7 @@ brew libavif
 brew libbluray
 brew libcap
 brew libclc
+brew libdatrie
 brew libdrm
 brew libedit
 brew libev
@@ -145,6 +146,7 @@ brew libssh
 brew libssh2
 brew libtasn1
 brew libtermkey
+brew libthai
 brew libtiff
 brew libtirpc
 brew libtool
