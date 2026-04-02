@@ -4,11 +4,11 @@
 tap homebrew/core
 brew alp
 brew aom
+brew apache-serf
 brew apr
 brew apr-util
 brew aqua
 brew argon2
-brew aribb24
 brew asdf
 brew aspell
 brew autoconf
@@ -26,7 +26,6 @@ brew c-ares
 brew ca-certificates
 brew cairo
 brew cffi
-brew cjson
 brew cloud-sql-proxy
 brew cocoapods
 brew coreutils
@@ -45,14 +44,12 @@ brew fbthrift
 brew ffmpeg
 brew findutils
 brew fizz
-brew flac
 brew flyctl
 brew fmt
 brew folly
 brew fontconfig
 brew freetds
 brew freetype
-brew frei0r
 brew fribidi
 brew fzf
 brew gawk
@@ -102,11 +99,10 @@ brew keychain
 brew krb5
 brew lame
 brew lazygit
-brew libass
 brew libassuan
 brew libavif
-brew libbluray
 brew libcbor
+brew libdatrie
 brew libde265
 brew libedit
 brew libev
@@ -122,37 +118,24 @@ brew libidn
 brew libidn2
 brew libksba
 brew liblqr
-brew libmicrohttpd
 brew libmpc
 brew libnghttp2
 brew libnghttp3
 brew libngtcp2
-brew libogg
-brew libomp
 brew libpng
 brew libpq
 brew libpthread-stubs
-brew libraw
-brew librist
-brew libsamplerate
-brew libsndfile
 brew libsodium
-brew libsoxr
-brew libssh
 brew libssh2
 brew libtasn1
 brew libtermkey
+brew libthai
 brew libtiff
 brew libtool
-brew libudfread
-brew libultrahdr
-brew libunibreak
 brew libunistring
 brew libusb
 brew libuv
-brew libvidstab
 brew libvmaf
-brew libvorbis
 brew libvpx
 brew libx11
 brew libxau
@@ -180,7 +163,6 @@ brew mas
 brew mise
 brew mmv
 brew mpfr
-brew mpg123
 brew msgpack
 brew mvfst
 brew mysql-client
@@ -195,7 +177,6 @@ brew notmuch
 brew npth
 brew oha
 brew oniguruma
-brew opencore-amr
 brew openexr
 brew openfortivpn
 brew openjdk
@@ -222,11 +203,9 @@ brew pygments
 brew python@3.10
 brew python@3.11
 brew ranger
-brew rav1e
 brew re2c
 brew ripgrep
 brew rtmpdump
-brew rubberband
 brew ruby
 brew sdl2
 brew sfsexp
@@ -235,15 +214,12 @@ brew sheldon
 brew six
 brew snappy
 brew sops
-brew speex
-brew srt
 brew sslscan
 brew subversion
 brew svt-av1
 brew symfony-cli
 brew talloc
 brew telnet
-brew theora
 brew tidy-html5
 brew tig
 brew tmux
@@ -267,13 +243,10 @@ brew xh
 brew xmlto
 brew xorgproto
 brew xq
-brew xvid
 brew xxhash
 brew yq
 brew z3
-brew zeromq
 brew zig
-brew zimg
 brew zlib
 brew zplug
 brew zsh
@@ -293,9 +266,9 @@ cask brave-browser
 cask charles
 cask choosy
 cask claude
-cask claude-code
 cask clickup
 cask clipy
+cask cmux
 cask codexbar
 cask copilot-cli
 cask coteditor
@@ -304,6 +277,7 @@ cask dbeaver-community
 cask devtoys
 cask discord
 cask docker
+cask dot
 cask dropbox
 cask duet
 cask eclipse-java
@@ -329,7 +303,6 @@ cask gitify
 cask google-chrome
 cask google-cloud-sdk
 cask google-drive
-cask gyazo
 cask hammerspoon
 cask iina
 cask inkscape
@@ -446,17 +419,3 @@ brew dog
 # Other Cask applications
 cask skitch
 cask wkhtmltopdf
-
-# App Store applications
-appstore 302584613 Amazon Kindle (7.52)
-appstore 411643860 DaisyDisk (4.33.2)
-appstore 288545208 Instapaper (9.4.1)
-appstore 409183694 Keynote (14.5)
-appstore 472226235 LanScan (8.2.4)
-appstore 409203825 Numbers (14.5)
-appstore 1564031042 Omnivore (1.38.0)
-appstore 409201541 Pages (14.5)
-appstore 965442961 Screenie (2.2.5)
-appstore 1425368544 Timery (1.7.3)
-appstore 1291898086 Toggl Track (10.15.0)
-appstore 497799835 Xcode (26.2)

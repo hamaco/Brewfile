@@ -14,7 +14,6 @@ brew libb2
 brew libdeflate
 brew libpaper
 brew lpeg
-brew mbedtls@3
 brew mpdecimal
 brew pango
 brew pkgconf
