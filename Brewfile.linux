@@ -189,12 +189,14 @@ brew libyaml
 brew libzip
 brew linux-headers@4.4
 brew linux-headers@5.15
+brew linux-headers@6.8
 brew little-cms2
 brew llvm
 brew llvm@15
 brew llvm@19
+brew llvm@21
 brew lm-sensors
-brew lua
+brew lua@5.4
 brew luajit
 brew luajit-openresty
 brew luv
@@ -230,7 +232,6 @@ brew openjdk@11
 brew openjpeg
 brew openjph
 brew openldap
-brew openssl@1.1
 brew openssl@3
 brew opus
 brew opusfile
@@ -276,6 +277,7 @@ brew tig
 brew tmux
 brew tmuxinator
 brew tmuxinator-completion
+brew tree-sitter
 brew ttfautohint
 brew uchardet
 brew unbound
@@ -293,12 +295,14 @@ brew volta
 brew wayland
 brew wayland-protocols
 brew webp
+brew xcb-util-keysyms
 brew xinput
 brew xorgproto
 brew yq
 brew z3
 brew zip
 brew zlib
+brew zlib-ng-compat
 brew zstd
 
 tap aquaproj/aqua
@@ -334,3 +338,4 @@ brew speedtest
 
 # Other Homebrew packages
 brew exa
+brew openssl@1.1

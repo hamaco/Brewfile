@@ -25,7 +25,6 @@ brew readline
 brew sqlite
 brew tesseract
 brew tree
-brew tree-sitter@0.25
 brew xz
 
 # Main file
