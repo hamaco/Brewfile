@@ -413,6 +413,9 @@ brew tv
 
 tap ynqa/tap
 
+tap yugo-ibuki/tap
+cask unitmux
+
 # Other Homebrew packages
 brew dog
 
