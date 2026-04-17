@@ -206,6 +206,7 @@ brew mad
 brew mandoc
 brew mawk
 brew mbedtls
+brew mbedtls@3
 brew mesa
 brew mesa-glu
 brew meson
