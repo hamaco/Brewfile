@@ -120,7 +120,6 @@ brew libevent
 brew libffi
 brew libgcrypt
 brew libgit2
-brew libgit2@1.6
 brew libgpg-error
 brew libice
 brew libidn
@@ -271,7 +270,6 @@ brew starship
 brew swig
 brew symfony-cli
 brew tbls
-brew terraform
 brew tidy-html5
 brew tig
 brew tmux
@@ -338,4 +336,6 @@ brew speedtest
 
 # Other Homebrew packages
 brew exa
+brew libgit2@1.6
 brew openssl@1.1
+brew terraform
