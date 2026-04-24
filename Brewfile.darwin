@@ -11,6 +11,7 @@ brew aqua
 brew argon2
 brew asdf
 brew aspell
+brew ast-grep
 brew autoconf
 brew awscli
 brew bash
@@ -80,6 +81,7 @@ brew graphite2
 brew grep
 brew harfbuzz
 brew highway
+brew himalaya
 brew httpie
 brew icu4c@75
 brew icu4c@77
@@ -389,6 +391,8 @@ brew awsmfa
 
 tap k1low/tap
 brew runn
+
+tap kashioka/tap
 
 tap koekeishiya/formulae
 brew yabai
