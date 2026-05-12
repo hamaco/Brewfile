@@ -13,8 +13,12 @@ brew libarchive
 brew libb2
 brew libdeflate
 brew libpaper
+brew lld@21
+brew llhttp
+brew llvm@21
 brew lpeg
 brew mpdecimal
+brew openssl@4
 brew pango
 brew pkgconf
 brew python@3.12

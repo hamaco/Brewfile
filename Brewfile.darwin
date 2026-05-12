@@ -149,9 +149,7 @@ brew libxrender
 brew libyaml
 brew libzip
 brew little-cms2
-brew lld@20
 brew llvm
-brew llvm@20
 brew lmdb
 brew lua
 brew luajit
@@ -211,7 +209,6 @@ brew rtmpdump
 brew ruby
 brew sdl2
 brew sfsexp
-brew shared-mime-info
 brew sheldon
 brew six
 brew snappy
@@ -225,7 +222,6 @@ brew telnet
 brew tidy-html5
 brew tig
 brew tmux
-brew tokyo-cabinet
 brew tree-sitter
 brew unbound
 brew unibilium
