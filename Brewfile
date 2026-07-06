@@ -2,7 +2,6 @@
 # tap repositories and their packages
 
 tap rcmdnk/file
-brew brew-file
 
 # Other Homebrew packages
 brew certifi
