@@ -72,6 +72,7 @@ brew gnutls
 brew go-task
 brew gobject-introspection
 brew gpgme
+brew gpgmepp
 brew gradle
 brew gradle-completion
 brew graphite2
@@ -94,6 +95,7 @@ brew jpeg
 brew jpeg-turbo
 brew jpeg-xl
 brew jpegoptim
+brew json-c
 brew keychain
 brew krb5
 brew lame
@@ -170,6 +172,8 @@ brew nettle
 brew nkf
 brew notmuch
 brew npth
+brew nspr
+brew nss
 brew oha
 brew oniguruma
 brew openexr
@@ -190,6 +194,7 @@ brew php@8.1
 brew pinentry
 brew pixman
 brew pkg-config
+brew poppler
 brew psutils
 brew pv
 brew pycparser
@@ -354,6 +359,7 @@ cask ticktick
 cask todoist
 cask trailer
 cask tunnelblick
+cask typeless
 cask typora
 cask visual-studio-code
 cask vivaldi
