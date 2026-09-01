@@ -330,6 +330,7 @@ cask obsidian
 cask ogdesign-eagle
 cask omnifocus
 cask omnigraffle
+cask orca
 cask pdf-expert
 cask popsql
 cask postico
@@ -397,6 +398,8 @@ tap nikitabobko/tap
 cask aerospace
 
 tap rcmdnk/file
+
+tap stablyai/orca
 
 tap steipete/tap
 
