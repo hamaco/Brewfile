@@ -336,7 +336,6 @@ cask popsql
 cask postico
 cask postman
 cask proxyman
-cask pushplaylabs-sidekick
 cask quail
 cask raindropio
 cask raycast
@@ -418,5 +417,6 @@ cask unitmux
 brew dog
 
 # Other Cask applications
+cask pushplaylabs-sidekick
 cask skitch
 cask wkhtmltopdf
