@@ -8,7 +8,6 @@ brew ansible
 brew aom
 brew apr
 brew apr-util
-brew aqua
 brew argon2
 brew aribb24
 brew asdf
@@ -57,7 +56,6 @@ brew freetds
 brew freetype
 brew frei0r
 brew fribidi
-brew fzf
 brew gcc
 brew gd
 brew gettext
@@ -66,7 +64,6 @@ brew ghostscript
 brew ghq
 brew giflib
 brew git
-brew git-delta
 brew git-lfs
 brew glib
 brew glibc
@@ -193,7 +190,6 @@ brew little-cms2
 brew llvm
 brew llvm@15
 brew llvm@19
-brew llvm@21
 brew lm-sensors
 brew lua@5.4
 brew luajit
@@ -279,7 +275,6 @@ brew unbound
 brew unibilium
 brew unixodbc
 brew unzip
-brew usage
 brew utf8proc
 brew util-linux
 brew valgrind
